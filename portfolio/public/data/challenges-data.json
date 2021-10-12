@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Cup Swapping",
+
+        "explaination": "There are three cups on a table, at positions A, B, and C. At the start, there is a ball hidden under the cup at position B.\nHowever, I perform several swaps on the cups, which is notated as two letters. For example, if I swap the cups at positions A and B, I could notate this as AB or BA.\nCreate a function that returns the letter position that the ball is at, once I finish swapping the cups. The swaps will be given to you as an array.",
+
+        "example": "cupSwapping(['AB', 'CA']) ➞ 'C'\ncupSwapping(['AC', 'CA', 'CA', 'AC']) ➞ 'B'\ncupSwapping(['BA', 'AC', 'CA', 'BC']) ➞ 'A'",
+
+        "solution": "public static string CupSwapping(string[] swaps){\nchar ballPos = 'B';\nfor (int i = 0; i < swaps.Length; i++){\nstring currSwap = swaps[i];\nif (currSwap[0] == ballPos)\nballPos = currSwap[1];\nelse if(currSwap[1] == ballPos)\nballPos = currSwap[0];\n}\nstring x = ballPos.ToString();\nreturn x;\n}"
+    },
+
+    {
+        "title": "Pentagonal Number",
+
+        "explaination": "Write a function that takes a positive integer num and calculates how many dots exist in a pentagonal shape around the center dot on the Nth iteration. \nIn the image below you can see the first iteration is only a single dot. On the second, there are 6 dots. On the third, there are 16 dots, and on the fourth there are 31 dots.\nReturn the number of dots that exist in the whole pentagon on the Nth iteration.",
+
+        "example": "pentagonal(1) ➞ 1\npentagonal(2) ➞ 6\npentagonal(3) ➞ 16\npentagonal(8) ➞ 141",
+
+        "solution": "public static string CupSwapping(string[] swaps){\nchar ballPos = 'B';\nfor (int i = 0; i < swaps.Length; i++){\nstring currSwap = swaps[i];\nif (currSwap[0] == ballPos)\nballPos = currSwap[1];\nelse if(currSwap[1] == ballPos)\nballPos = currSwap[0];\n}\nstring x = ballPos.ToString();\nreturn x;\n}"
+    },
+
+    {
+        "title": "Maximum Occurrence",
+
+        "explaination": "Given a string text. Write a function that returns the character with the highest frequency. \nIf more than 1 character has the same highest frequency, return all those characters as a comma separated string. If there is no repetition in characters, return 'No Repetition'.",
+
+        "example": "MaxOccur('Computer Science') ➞ 'e'\nMaxOccur('Edabit') ➞ 'No Repetition' \nMaxOccur('system admin') ➞'m, s' \nMaxOccur('the quick brown fox jumps over the lazy dog') ➞ ' '",
+
+        "solution": "public static string CupSwapping(string[] swaps){\nchar ballPos = 'B';\nfor (int i = 0; i < swaps.Length; i++){\nstring currSwap = swaps[i];\nif (currSwap[0] == ballPos)\nballPos = currSwap[1];\nelse if(currSwap[1] == ballPos)\nballPos = currSwap[0];\n}\nstring x = ballPos.ToString();\nreturn x;\n}"
+    }
+]

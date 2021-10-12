@@ -1,0 +1,230 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/responsive-style.css">
+    <!-- <link rel="stylesheet" href="css/header-style.css"> -->
+    <title>Gil Cohen | <%=title%></title>
+</head>
+<body>
+    <div id="menu-img" onclick="openCloseMenu('open')"><img src="images/hamburger.png" alt=""></div>
+    <nav id="nav">
+        <div id="photo">
+            <div id="close-img" onclick="openCloseMenu('close')"><img src="images/x.png" alt=""></div>
+            <div id="img-cont">
+                <img src="images/photo.jpeg" alt="Gil-Cohen">
+            </div>
+            <p id="name">Gil Cohen</p>
+            <p id="det">Available for work</p>
+        </div>
+        <ul>
+            <li class="home active"><a href="#home">Home</a></li>
+            <li class="about"><a href="#about">About</a></li>
+            <li class="skills"><a href="#skills">Skills</a></li>
+            <li class="projects"><a href="#projects">Projects</a></li>
+            <li class="challenges"><a href="#challenges">Coding Challenges</a></li>
+            <li class="contact"><a href="#contact">Contact</a></li>
+            <div id="socials">
+                <li class="socials"><a href="https://github.com/gilico" target="_blank"><img src="images/github.png" style="width: 30px" alt=""></a></li>
+                <li class="socials"><a href="https://www.linkedin.com/in/gil-cohen-827188125/" target="_blank"><img src="images/linkedin.png" style="width: 30px" alt=""></a></li>
+                <li class="socials"><a href="https://www.facebook.com/gil.cohen.33865" target="_blank"><img src="images/facebook.png" style="width: 30px" alt=""></a></li>
+            </div>
+        </ul>
+    </nav>
+
+    <div class="section" id="home">
+        <div id="home2">
+            <h1>Gil Cohen</h1>
+            <div id="home-content">
+                <h3>Fullstack Developer And Much More...</h3>
+                <a href="#contact"><button>Want To Hire Me?</button></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section about-sec" id="about">
+        <div id="container">
+            <h1>About me</h1>
+            <p>Get to know me</p>
+            <div id="about-content">
+                <div id="img-contain">
+                    <img src="images/photo.jpeg" alt="Gil-Cohen" id="abt-img">
+                </div>
+                <div id="about-right">
+                    <h4>Who am I?</h4>
+                    <h2>I'm Gil Cohen, a Fullstack Web Doveloper</h2>
+                    <p id="text">I'm a software developer, live in northert Israel and also Practical Software Engineer student at the Kinneret college of technelogy. I'm very enthusiastic in every thing that relate to programming and develop, it's very exciting me to solve problems and be able to make even the smallest app. I'm a very hard worker because I know that as long as I keep work I'll keep learn new things. Take a look at my portfolio work and lets see if we can work together.</p>
+
+                    <div id="about-contact">
+                        <p>Email: <a href="mailto: gilco77@gmail.com">gilco77@gmail.com</a></p>
+                        <a href="resume/resume.docx"><button>Download resume</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section" id="skills">
+        <div id="container">
+            <h1>My Skills</h1>
+            <div id="boxes-cont">
+                <div class="box">
+                    <img src="images/csharp.png" class="skill-img">
+                    <h4>C# Development</h4>
+                    <p>I use C# mostly to solve exercise programming problem and to develop .NET framework apps</p>
+                </div>
+                <div class="box">
+                    <img src="images/c-image.png" class="skill-img">
+                    <h4>C Development</h4>
+                    <p>I use C with very creative thinking, especially with Arduino </p>
+                </div>
+                <div class="box">
+                    <img src="images/frontend.png" class="skill-img front">
+                    <h4>Front End Development</h4>
+                    <p>I use HTML, CSS and JavaScript to build attractive frontends for my web projects</p>
+                </div>
+                <div class="box">
+                    <img src="images/sql.png" class="skill-img">
+                    <h4>SQL Database Development</h4>
+                    <p>I have a very pation for app development thar integrate sql database</p>
+                </div>
+                <div class="box">
+                    <img src="images/node.png" class="skill-img">
+                    <h4>Node.js Development</h4>
+                    <p>My Favorite backend language, I use it to build apss based on api's and databases</p>
+                </div>
+                <div class="box">
+                    <img src="images/arduino.png" class="skill-img">
+                    <h4>Arduino and IOT development</h4>
+                    <p>I use arduino to make the code become physical with many sensors and accessories</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section" id="projects">
+        <div id="container">
+            <h1>My Projects</h1>
+            <div id="boxes-cont">
+                <a href="https://github.com/gilico/E2E-MISSION-IMPOSSIBLE" target="_blank">
+                    <div class="box box1">
+                        <h4>E2E Arduino & Trivia</h4>
+                        <p>Answer 10 trivia questions using laser, and complete 3 Arduino missions</p>
+                        <div class="line"></div>
+                    </div>
+                </a>
+
+                <a href="/covid-app" target="_blank">
+                    <div class="box box2">
+                        <h4>Covid Data App</h4>
+                        <p>Data of Israel by dates, data of cities in israel and every country in the world</p>
+                        <div class="line"></div>
+                    </div>
+                </a>
+
+                <a href="/memory-game" target="_blank">
+                    <div class="box box3">
+                        <h4>Memory Card Game</h4>
+                        <p>Play 1o1 memory card, but always look at the countdown</p>
+                        <div class="line"></div>
+                    </div>
+                </a>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="section" id="challenges">
+        <div id="container">
+            <h1>Coding Challenges</h1>
+            <p>I like to challenge myself and learn new things. Coding challenges allow me to solve new problems with code but on a smaller scale. It's fun to do challenges because each challenge need a different approach. this three challenges is my favorite and all of them I solved with C#.</p>
+            <div id="boxes-cont">
+                <a onclick="sessionStorage.setItem('challengeId', 0)" href="/challenge">
+                    <div class="box c-box1">
+                        <!-- <h2>Cupp Swapping</h2> -->
+                        <div class="line"></div>
+                    </div>
+                </a>
+
+                <a onclick="sessionStorage.setItem('challengeId', 1)" href="/challenge">
+                    <div class="box c-box2">
+                        <div class="line"></div>
+                    </div>
+                </a>
+
+                <a onclick="sessionStorage.setItem('challengeId', 2)" href="/challenge">
+                    <div class="box c-box3">
+                        <div class="line"></div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section" id="contact">
+        <div id="container">
+            <h1>Get In Touch</h1>
+            <p>Feel free to contact me anytime</p>
+            <div id="form-contain">
+                <form action="https://formsubmit.co/gilco77@gmail.com" method="POST">
+                    <div id="contact-det">
+                        <input type="text" name="name" placeholder="Name" required>
+                        <input id="email" type="email" name="email" placeholder="Email" required>
+                    </div>
+                    <div id="message">
+                        <input type="text" placeholder="Subject" name="_subject" required>
+                    </div>
+                    <textarea name="message-text" id="message-text" rows="" placeholder="Message" required></textarea>
+                    <input id="btn" type="submit" value="Send Message">
+                </form>
+            </div>
+        </div>
+
+        <div id="contact-ways">
+            <div id="container">
+            </div>
+        </div>
+
+    </div>
+    
+
+    <footer class="footer">
+        <div id="container">
+            <div class="icon-cont" id="call-me">
+                <a href="tel:972507845106">
+                    <div class="icon">
+                        <img src="images/phone.png" alt="">
+                    </div>
+                My Phone Number</a> 
+            </div>
+            
+            <div id="line"></div>
+
+            <div class="icon-cont" id="whatsapp">
+                <a href="https://wa.me/972507845106" target="_blank">
+                    <div class="icon">
+                        <img src="images/whatsup.png" alt="">
+                    </div>
+                Chat via WhatsApp</a> 
+            </div>
+
+            <div id="line"></div>
+
+            <div class="icon-cont" id="location">
+                <a href="mailto:gilco77@gmail.com" target="_blank">
+                    <div class="icon">
+                        <img src="images/message.png" alt="">
+                    </div>
+                Email via Outlook</a> 
+            </div>
+
+        </div>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
+
+

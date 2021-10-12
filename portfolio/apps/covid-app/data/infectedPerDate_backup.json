@@ -1,0 +1,4746 @@
+[
+    {
+    "date": "2020-02-12T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 7,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-13T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 3,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-14T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 2,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-15T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-16T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-17T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-18T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-19T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-20T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 7,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-21T00:00:00.000Z",
+    "amount": 1,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 8,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-22T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 8,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-23T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 8,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-24T00:00:00.000Z",
+    "amount": 1,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 9,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-25T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 9,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-26T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 9,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-27T00:00:00.000Z",
+    "amount": 1,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 10,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-28T00:00:00.000Z",
+    "amount": 3,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 13,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-02-29T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 13,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-01T00:00:00.000Z",
+    "amount": 1,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 14,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-02T00:00:00.000Z",
+    "amount": 5,
+    "recovered": 0,
+    "avg": 0,
+    "sum": 19,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-03T00:00:00.000Z",
+    "amount": 3,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 22,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-04T00:00:00.000Z",
+    "amount": 0,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 22,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-05T00:00:00.000Z",
+    "amount": 9,
+    "recovered": 0,
+    "avg": 1,
+    "sum": 31,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-06T00:00:00.000Z",
+    "amount": 4,
+    "recovered": 0,
+    "avg": 3,
+    "sum": 35,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-07T00:00:00.000Z",
+    "amount": 4,
+    "recovered": 0,
+    "avg": 3,
+    "sum": 39,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-08T00:00:00.000Z",
+    "amount": 9,
+    "recovered": 0,
+    "avg": 3,
+    "sum": 48,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-09T00:00:00.000Z",
+    "amount": 4,
+    "recovered": 0,
+    "avg": 4,
+    "sum": 52,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-10T00:00:00.000Z",
+    "amount": 33,
+    "recovered": 0,
+    "avg": 4,
+    "sum": 85,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-11T00:00:00.000Z",
+    "amount": 19,
+    "recovered": 0,
+    "avg": 9,
+    "sum": 104,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-12T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 0,
+    "avg": 11,
+    "sum": 126,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-13T00:00:00.000Z",
+    "amount": 35,
+    "recovered": 1,
+    "avg": 13,
+    "sum": 161,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-14T00:00:00.000Z",
+    "amount": 29,
+    "recovered": 0,
+    "avg": 18,
+    "sum": 190,
+    "coronaEvents": "סגר ראשון "
+    },
+    {
+    "date": "2020-03-15T00:00:00.000Z",
+    "amount": 40,
+    "recovered": 0,
+    "avg": 21,
+    "sum": 230,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-16T00:00:00.000Z",
+    "amount": 73,
+    "recovered": 0,
+    "avg": 26,
+    "sum": 303,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-17T00:00:00.000Z",
+    "amount": 94,
+    "recovered": 2,
+    "avg": 35,
+    "sum": 397,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-18T00:00:00.000Z",
+    "amount": 125,
+    "recovered": 2,
+    "avg": 44,
+    "sum": 522,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-19T00:00:00.000Z",
+    "amount": 136,
+    "recovered": 4,
+    "avg": 59,
+    "sum": 658,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-20T00:00:00.000Z",
+    "amount": 168,
+    "recovered": 1,
+    "avg": 76,
+    "sum": 826,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-21T00:00:00.000Z",
+    "amount": 211,
+    "recovered": 1,
+    "avg": 95,
+    "sum": 1037,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-22T00:00:00.000Z",
+    "amount": 254,
+    "recovered": 4,
+    "avg": 121,
+    "sum": 1291,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-23T00:00:00.000Z",
+    "amount": 352,
+    "recovered": 6,
+    "avg": 151,
+    "sum": 1643,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-24T00:00:00.000Z",
+    "amount": 423,
+    "recovered": 5,
+    "avg": 191,
+    "sum": 2066,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-25T00:00:00.000Z",
+    "amount": 425,
+    "recovered": 6,
+    "avg": 238,
+    "sum": 2491,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-26T00:00:00.000Z",
+    "amount": 520,
+    "recovered": 10,
+    "avg": 281,
+    "sum": 3011,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-27T00:00:00.000Z",
+    "amount": 434,
+    "recovered": 18,
+    "avg": 336,
+    "sum": 3445,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-28T00:00:00.000Z",
+    "amount": 480,
+    "recovered": 9,
+    "avg": 374,
+    "sum": 3925,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-29T00:00:00.000Z",
+    "amount": 531,
+    "recovered": 14,
+    "avg": 412,
+    "sum": 4456,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-30T00:00:00.000Z",
+    "amount": 549,
+    "recovered": 33,
+    "avg": 452,
+    "sum": 5005,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-03-31T00:00:00.000Z",
+    "amount": 740,
+    "recovered": 43,
+    "avg": 480,
+    "sum": 5745,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-01T00:00:00.000Z",
+    "amount": 704,
+    "recovered": 143,
+    "avg": 525,
+    "sum": 6442,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-02T00:00:00.000Z",
+    "amount": 724,
+    "recovered": 79,
+    "avg": 564,
+    "sum": 7166,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-03T00:00:00.000Z",
+    "amount": 600,
+    "recovered": 57,
+    "avg": 593,
+    "sum": 7766,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-04T00:00:00.000Z",
+    "amount": 429,
+    "recovered": 53,
+    "avg": 617,
+    "sum": 8195,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-05T00:00:00.000Z",
+    "amount": 585,
+    "recovered": 102,
+    "avg": 610,
+    "sum": 8780,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-06T00:00:00.000Z",
+    "amount": 451,
+    "recovered": 120,
+    "avg": 617,
+    "sum": 9231,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-07T00:00:00.000Z",
+    "amount": 377,
+    "recovered": 122,
+    "avg": 603,
+    "sum": 9608,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-08T00:00:00.000Z",
+    "amount": 340,
+    "recovered": 108,
+    "avg": 551,
+    "sum": 9948,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-09T00:00:00.000Z",
+    "amount": 343,
+    "recovered": 112,
+    "avg": 500,
+    "sum": 10291,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-10T00:00:00.000Z",
+    "amount": 359,
+    "recovered": 128,
+    "avg": 446,
+    "sum": 10650,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-11T00:00:00.000Z",
+    "amount": 345,
+    "recovered": 122,
+    "avg": 412,
+    "sum": 10995,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-12T00:00:00.000Z",
+    "amount": 552,
+    "recovered": 257,
+    "avg": 400,
+    "sum": 11547,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-13T00:00:00.000Z",
+    "amount": 438,
+    "recovered": 279,
+    "avg": 395,
+    "sum": 11985,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-14T00:00:00.000Z",
+    "amount": 399,
+    "recovered": 291,
+    "avg": 393,
+    "sum": 12384,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-15T00:00:00.000Z",
+    "amount": 311,
+    "recovered": 279,
+    "avg": 396,
+    "sum": 12695,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-16T00:00:00.000Z",
+    "amount": 297,
+    "recovered": 325,
+    "avg": 392,
+    "sum": 12992,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-17T00:00:00.000Z",
+    "amount": 298,
+    "recovered": 357,
+    "avg": 385,
+    "sum": 13290,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-18T00:00:00.000Z",
+    "amount": 291,
+    "recovered": 248,
+    "avg": 377,
+    "sum": 13581,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-19T00:00:00.000Z",
+    "amount": 276,
+    "recovered": 380,
+    "avg": 369,
+    "sum": 13857,
+    "coronaEvents": "פתיחת משק חלקית לאחר סגר ראשון"
+    },
+    {
+    "date": "2020-04-20T00:00:00.000Z",
+    "amount": 299,
+    "recovered": 448,
+    "avg": 330,
+    "sum": 14156,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-21T00:00:00.000Z",
+    "amount": 282,
+    "recovered": 373,
+    "avg": 310,
+    "sum": 14438,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-22T00:00:00.000Z",
+    "amount": 226,
+    "recovered": 392,
+    "avg": 293,
+    "sum": 14664,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-23T00:00:00.000Z",
+    "amount": 276,
+    "recovered": 329,
+    "avg": 281,
+    "sum": 14940,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-24T00:00:00.000Z",
+    "amount": 249,
+    "recovered": 336,
+    "avg": 278,
+    "sum": 15189,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-25T00:00:00.000Z",
+    "amount": 159,
+    "recovered": 375,
+    "avg": 271,
+    "sum": 15348,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-26T00:00:00.000Z",
+    "amount": 83,
+    "recovered": 430,
+    "avg": 252,
+    "sum": 15431,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-27T00:00:00.000Z",
+    "amount": 127,
+    "recovered": 466,
+    "avg": 224,
+    "sum": 15558,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-28T00:00:00.000Z",
+    "amount": 161,
+    "recovered": 560,
+    "avg": 200,
+    "sum": 15719,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-29T00:00:00.000Z",
+    "amount": 82,
+    "recovered": 350,
+    "avg": 183,
+    "sum": 15801,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-04-30T00:00:00.000Z",
+    "amount": 143,
+    "recovered": 423,
+    "avg": 162,
+    "sum": 15944,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-01T00:00:00.000Z",
+    "amount": 116,
+    "recovered": 417,
+    "avg": 143,
+    "sum": 16060,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-02T00:00:00.000Z",
+    "amount": 57,
+    "recovered": 276,
+    "avg": 124,
+    "sum": 16117,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-03T00:00:00.000Z",
+    "amount": 27,
+    "recovered": 290,
+    "avg": 109,
+    "sum": 16144,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-04T00:00:00.000Z",
+    "amount": 55,
+    "recovered": 259,
+    "avg": 101,
+    "sum": 16199,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-05T00:00:00.000Z",
+    "amount": 33,
+    "recovered": 315,
+    "avg": 91,
+    "sum": 16232,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-06T00:00:00.000Z",
+    "amount": 65,
+    "recovered": 257,
+    "avg": 73,
+    "sum": 16297,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-07T00:00:00.000Z",
+    "amount": 61,
+    "recovered": 226,
+    "avg": 70,
+    "sum": 16358,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-08T00:00:00.000Z",
+    "amount": 33,
+    "recovered": 220,
+    "avg": 59,
+    "sum": 16391,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-09T00:00:00.000Z",
+    "amount": 20,
+    "recovered": 89,
+    "avg": 47,
+    "sum": 16411,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-10T00:00:00.000Z",
+    "amount": 29,
+    "recovered": 169,
+    "avg": 42,
+    "sum": 16440,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-11T00:00:00.000Z",
+    "amount": 39,
+    "recovered": 331,
+    "avg": 42,
+    "sum": 16479,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-12T00:00:00.000Z",
+    "amount": 23,
+    "recovered": 257,
+    "avg": 40,
+    "sum": 16502,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-13T00:00:00.000Z",
+    "amount": 39,
+    "recovered": 182,
+    "avg": 38,
+    "sum": 16541,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-14T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 241,
+    "avg": 34,
+    "sum": 16563,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-15T00:00:00.000Z",
+    "amount": 12,
+    "recovered": 162,
+    "avg": 29,
+    "sum": 16575,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-16T00:00:00.000Z",
+    "amount": 5,
+    "recovered": 103,
+    "avg": 26,
+    "sum": 16580,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-17T00:00:00.000Z",
+    "amount": 15,
+    "recovered": 152,
+    "avg": 24,
+    "sum": 16595,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-18T00:00:00.000Z",
+    "amount": 27,
+    "recovered": 274,
+    "avg": 22,
+    "sum": 16622,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-19T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 154,
+    "avg": 20,
+    "sum": 16644,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-20T00:00:00.000Z",
+    "amount": 15,
+    "recovered": 113,
+    "avg": 20,
+    "sum": 16659,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-21T00:00:00.000Z",
+    "amount": 17,
+    "recovered": 123,
+    "avg": 16,
+    "sum": 16676,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-22T00:00:00.000Z",
+    "amount": 19,
+    "recovered": 163,
+    "avg": 16,
+    "sum": 16695,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-23T00:00:00.000Z",
+    "amount": 5,
+    "recovered": 44,
+    "avg": 17,
+    "sum": 16700,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-24T00:00:00.000Z",
+    "amount": 13,
+    "recovered": 116,
+    "avg": 17,
+    "sum": 16713,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-25T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 132,
+    "avg": 16,
+    "sum": 16735,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-26T00:00:00.000Z",
+    "amount": 50,
+    "recovered": 90,
+    "avg": 16,
+    "sum": 16785,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-27T00:00:00.000Z",
+    "amount": 40,
+    "recovered": 60,
+    "avg": 20,
+    "sum": 16825,
+    "coronaEvents": "פתיחת משק מלאה לאחר סגר ראשון"
+    },
+    {
+    "date": "2020-05-28T00:00:00.000Z",
+    "amount": 77,
+    "recovered": 114,
+    "avg": 23,
+    "sum": 16902,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-29T00:00:00.000Z",
+    "amount": 113,
+    "recovered": 39,
+    "avg": 32,
+    "sum": 17015,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-30T00:00:00.000Z",
+    "amount": 29,
+    "recovered": 40,
+    "avg": 45,
+    "sum": 17044,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-05-31T00:00:00.000Z",
+    "amount": 87,
+    "recovered": 61,
+    "avg": 49,
+    "sum": 17131,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-01T00:00:00.000Z",
+    "amount": 100,
+    "recovered": 68,
+    "avg": 59,
+    "sum": 17231,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-02T00:00:00.000Z",
+    "amount": 121,
+    "recovered": 53,
+    "avg": 70,
+    "sum": 17352,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-03T00:00:00.000Z",
+    "amount": 97,
+    "recovered": 27,
+    "avg": 81,
+    "sum": 17449,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-04T00:00:00.000Z",
+    "amount": 142,
+    "recovered": 42,
+    "avg": 89,
+    "sum": 17591,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-05T00:00:00.000Z",
+    "amount": 127,
+    "recovered": 37,
+    "avg": 98,
+    "sum": 17718,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-06T00:00:00.000Z",
+    "amount": 78,
+    "recovered": 24,
+    "avg": 100,
+    "sum": 17796,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-07T00:00:00.000Z",
+    "amount": 140,
+    "recovered": 42,
+    "avg": 107,
+    "sum": 17936,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-08T00:00:00.000Z",
+    "amount": 179,
+    "recovered": 39,
+    "avg": 115,
+    "sum": 18115,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-09T00:00:00.000Z",
+    "amount": 174,
+    "recovered": 45,
+    "avg": 126,
+    "sum": 18289,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-10T00:00:00.000Z",
+    "amount": 241,
+    "recovered": 51,
+    "avg": 133,
+    "sum": 18530,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-11T00:00:00.000Z",
+    "amount": 192,
+    "recovered": 55,
+    "avg": 154,
+    "sum": 18722,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-12T00:00:00.000Z",
+    "amount": 184,
+    "recovered": 54,
+    "avg": 161,
+    "sum": 18906,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-13T00:00:00.000Z",
+    "amount": 149,
+    "recovered": 40,
+    "avg": 169,
+    "sum": 19055,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-14T00:00:00.000Z",
+    "amount": 136,
+    "recovered": 49,
+    "avg": 179,
+    "sum": 19191,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-15T00:00:00.000Z",
+    "amount": 200,
+    "recovered": 89,
+    "avg": 179,
+    "sum": 19391,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-16T00:00:00.000Z",
+    "amount": 299,
+    "recovered": 52,
+    "avg": 182,
+    "sum": 19690,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-17T00:00:00.000Z",
+    "amount": 271,
+    "recovered": 47,
+    "avg": 200,
+    "sum": 19961,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-18T00:00:00.000Z",
+    "amount": 302,
+    "recovered": 50,
+    "avg": 204,
+    "sum": 20263,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-19T00:00:00.000Z",
+    "amount": 310,
+    "recovered": 57,
+    "avg": 220,
+    "sum": 20573,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-20T00:00:00.000Z",
+    "amount": 161,
+    "recovered": 36,
+    "avg": 238,
+    "sum": 20734,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-21T00:00:00.000Z",
+    "amount": 174,
+    "recovered": 49,
+    "avg": 239,
+    "sum": 20908,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-22T00:00:00.000Z",
+    "amount": 345,
+    "recovered": 59,
+    "avg": 245,
+    "sum": 21253,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-23T00:00:00.000Z",
+    "amount": 453,
+    "recovered": 84,
+    "avg": 266,
+    "sum": 21706,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-24T00:00:00.000Z",
+    "amount": 487,
+    "recovered": 71,
+    "avg": 288,
+    "sum": 22193,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-25T00:00:00.000Z",
+    "amount": 516,
+    "recovered": 75,
+    "avg": 318,
+    "sum": 22709,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-26T00:00:00.000Z",
+    "amount": 464,
+    "recovered": 130,
+    "avg": 349,
+    "sum": 23173,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-27T00:00:00.000Z",
+    "amount": 398,
+    "recovered": 50,
+    "avg": 371,
+    "sum": 23571,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-28T00:00:00.000Z",
+    "amount": 386,
+    "recovered": 139,
+    "avg": 405,
+    "sum": 23957,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-29T00:00:00.000Z",
+    "amount": 758,
+    "recovered": 164,
+    "avg": 435,
+    "sum": 24715,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-06-30T00:00:00.000Z",
+    "amount": 789,
+    "recovered": 128,
+    "avg": 494,
+    "sum": 25504,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-01T00:00:00.000Z",
+    "amount": 971,
+    "recovered": 98,
+    "avg": 542,
+    "sum": 26475,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-02T00:00:00.000Z",
+    "amount": 1150,
+    "recovered": 126,
+    "avg": 611,
+    "sum": 27625,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-03T00:00:00.000Z",
+    "amount": 943,
+    "recovered": 116,
+    "avg": 702,
+    "sum": 28568,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-04T00:00:00.000Z",
+    "amount": 821,
+    "recovered": 76,
+    "avg": 770,
+    "sum": 29389,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-05T00:00:00.000Z",
+    "amount": 830,
+    "recovered": 143,
+    "avg": 831,
+    "sum": 30219,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-06T00:00:00.000Z",
+    "amount": 1134,
+    "recovered": 193,
+    "avg": 894,
+    "sum": 31353,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-07T00:00:00.000Z",
+    "amount": 1390,
+    "recovered": 173,
+    "avg": 948,
+    "sum": 32743,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-08T00:00:00.000Z",
+    "amount": 1327,
+    "recovered": 223,
+    "avg": 1034,
+    "sum": 34070,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-09T00:00:00.000Z",
+    "amount": 1524,
+    "recovered": 226,
+    "avg": 1085,
+    "sum": 35594,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-10T00:00:00.000Z",
+    "amount": 1410,
+    "recovered": 212,
+    "avg": 1138,
+    "sum": 37004,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-11T00:00:00.000Z",
+    "amount": 1168,
+    "recovered": 191,
+    "avg": 1205,
+    "sum": 38172,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-12T00:00:00.000Z",
+    "amount": 1239,
+    "recovered": 338,
+    "avg": 1254,
+    "sum": 39411,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-13T00:00:00.000Z",
+    "amount": 1718,
+    "recovered": 363,
+    "avg": 1313,
+    "sum": 41129,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-14T00:00:00.000Z",
+    "amount": 1603,
+    "recovered": 313,
+    "avg": 1396,
+    "sum": 42732,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-15T00:00:00.000Z",
+    "amount": 1877,
+    "recovered": 362,
+    "avg": 1427,
+    "sum": 44609,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-16T00:00:00.000Z",
+    "amount": 1937,
+    "recovered": 508,
+    "avg": 1505,
+    "sum": 46546,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-17T00:00:00.000Z",
+    "amount": 1606,
+    "recovered": 481,
+    "avg": 1564,
+    "sum": 48152,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-18T00:00:00.000Z",
+    "amount": 1448,
+    "recovered": 448,
+    "avg": 1592,
+    "sum": 49600,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-19T00:00:00.000Z",
+    "amount": 1016,
+    "recovered": 520,
+    "avg": 1632,
+    "sum": 50616,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-20T00:00:00.000Z",
+    "amount": 1888,
+    "recovered": 628,
+    "avg": 1600,
+    "sum": 52504,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-21T00:00:00.000Z",
+    "amount": 2007,
+    "recovered": 642,
+    "avg": 1625,
+    "sum": 54511,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-22T00:00:00.000Z",
+    "amount": 2044,
+    "recovered": 3704,
+    "avg": 1682,
+    "sum": 56555,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-23T00:00:00.000Z",
+    "amount": 1989,
+    "recovered": 6727,
+    "avg": 1706,
+    "sum": 58544,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-24T00:00:00.000Z",
+    "amount": 1831,
+    "recovered": 1596,
+    "avg": 1714,
+    "sum": 60375,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-25T00:00:00.000Z",
+    "amount": 1112,
+    "recovered": 589,
+    "avg": 1746,
+    "sum": 61487,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-26T00:00:00.000Z",
+    "amount": 1041,
+    "recovered": 2723,
+    "avg": 1698,
+    "sum": 62528,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-27T00:00:00.000Z",
+    "amount": 2050,
+    "recovered": 1762,
+    "avg": 1701,
+    "sum": 64578,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-28T00:00:00.000Z",
+    "amount": 2125,
+    "recovered": 1548,
+    "avg": 1724,
+    "sum": 66703,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-29T00:00:00.000Z",
+    "amount": 1957,
+    "recovered": 1400,
+    "avg": 1741,
+    "sum": 68660,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-30T00:00:00.000Z",
+    "amount": 1788,
+    "recovered": 1679,
+    "avg": 1729,
+    "sum": 70448,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-07-31T00:00:00.000Z",
+    "amount": 1362,
+    "recovered": 1288,
+    "avg": 1700,
+    "sum": 71810,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-01T00:00:00.000Z",
+    "amount": 625,
+    "recovered": 533,
+    "avg": 1633,
+    "sum": 72435,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-02T00:00:00.000Z",
+    "amount": 708,
+    "recovered": 2435,
+    "avg": 1564,
+    "sum": 73143,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-03T00:00:00.000Z",
+    "amount": 1802,
+    "recovered": 1797,
+    "avg": 1516,
+    "sum": 74945,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-04T00:00:00.000Z",
+    "amount": 1729,
+    "recovered": 1645,
+    "avg": 1481,
+    "sum": 76674,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-05T00:00:00.000Z",
+    "amount": 1690,
+    "recovered": 1479,
+    "avg": 1424,
+    "sum": 78364,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-06T00:00:00.000Z",
+    "amount": 1677,
+    "recovered": 1746,
+    "avg": 1386,
+    "sum": 80041,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-07T00:00:00.000Z",
+    "amount": 1765,
+    "recovered": 1206,
+    "avg": 1370,
+    "sum": 81806,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-08T00:00:00.000Z",
+    "amount": 754,
+    "recovered": 607,
+    "avg": 1428,
+    "sum": 82560,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-09T00:00:00.000Z",
+    "amount": 924,
+    "recovered": 2330,
+    "avg": 1446,
+    "sum": 83484,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-10T00:00:00.000Z",
+    "amount": 1704,
+    "recovered": 1392,
+    "avg": 1477,
+    "sum": 85188,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-11T00:00:00.000Z",
+    "amount": 1824,
+    "recovered": 979,
+    "avg": 1463,
+    "sum": 87012,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-12T00:00:00.000Z",
+    "amount": 1622,
+    "recovered": 1131,
+    "avg": 1476,
+    "sum": 88634,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-13T00:00:00.000Z",
+    "amount": 1645,
+    "recovered": 1307,
+    "avg": 1467,
+    "sum": 90279,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-14T00:00:00.000Z",
+    "amount": 1388,
+    "recovered": 985,
+    "avg": 1462,
+    "sum": 91667,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-15T00:00:00.000Z",
+    "amount": 757,
+    "recovered": 564,
+    "avg": 1408,
+    "sum": 92424,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-16T00:00:00.000Z",
+    "amount": 1069,
+    "recovered": 2216,
+    "avg": 1409,
+    "sum": 93493,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-17T00:00:00.000Z",
+    "amount": 1650,
+    "recovered": 1191,
+    "avg": 1429,
+    "sum": 95143,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-18T00:00:00.000Z",
+    "amount": 1649,
+    "recovered": 1118,
+    "avg": 1422,
+    "sum": 96792,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-19T00:00:00.000Z",
+    "amount": 1641,
+    "recovered": 1472,
+    "avg": 1397,
+    "sum": 98433,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-20T00:00:00.000Z",
+    "amount": 1487,
+    "recovered": 1432,
+    "avg": 1399,
+    "sum": 99920,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-21T00:00:00.000Z",
+    "amount": 1494,
+    "recovered": 1041,
+    "avg": 1377,
+    "sum": 101414,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-22T00:00:00.000Z",
+    "amount": 711,
+    "recovered": 664,
+    "avg": 1392,
+    "sum": 102125,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-23T00:00:00.000Z",
+    "amount": 965,
+    "recovered": 2121,
+    "avg": 1385,
+    "sum": 103090,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-24T00:00:00.000Z",
+    "amount": 1902,
+    "recovered": 1400,
+    "avg": 1371,
+    "sum": 104992,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-25T00:00:00.000Z",
+    "amount": 1959,
+    "recovered": 795,
+    "avg": 1407,
+    "sum": 106951,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-26T00:00:00.000Z",
+    "amount": 1986,
+    "recovered": 3646,
+    "avg": 1451,
+    "sum": 108937,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-27T00:00:00.000Z",
+    "amount": 2104,
+    "recovered": 1517,
+    "avg": 1500,
+    "sum": 111041,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-28T00:00:00.000Z",
+    "amount": 1833,
+    "recovered": 1836,
+    "avg": 1588,
+    "sum": 112874,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-29T00:00:00.000Z",
+    "amount": 910,
+    "recovered": 712,
+    "avg": 1637,
+    "sum": 113784,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-30T00:00:00.000Z",
+    "amount": 1102,
+    "recovered": 2274,
+    "avg": 1665,
+    "sum": 114886,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-08-31T00:00:00.000Z",
+    "amount": 2178,
+    "recovered": 1473,
+    "avg": 1685,
+    "sum": 117064,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-01T00:00:00.000Z",
+    "amount": 2253,
+    "recovered": 1007,
+    "avg": 1724,
+    "sum": 119317,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-02T00:00:00.000Z",
+    "amount": 3193,
+    "recovered": 1399,
+    "avg": 1766,
+    "sum": 122510,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-03T00:00:00.000Z",
+    "amount": 2662,
+    "recovered": 1793,
+    "avg": 1939,
+    "sum": 125172,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-04T00:00:00.000Z",
+    "amount": 2623,
+    "recovered": 1194,
+    "avg": 2018,
+    "sum": 127795,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-05T00:00:00.000Z",
+    "amount": 1505,
+    "recovered": 885,
+    "avg": 2131,
+    "sum": 129300,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-06T00:00:00.000Z",
+    "amount": 2176,
+    "recovered": 2397,
+    "avg": 2216,
+    "sum": 131476,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-07T00:00:00.000Z",
+    "amount": 3389,
+    "recovered": 1596,
+    "avg": 2370,
+    "sum": 134865,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-08T00:00:00.000Z",
+    "amount": 3490,
+    "recovered": 1430,
+    "avg": 2543,
+    "sum": 138355,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-09T00:00:00.000Z",
+    "amount": 3993,
+    "recovered": 1465,
+    "avg": 2719,
+    "sum": 142348,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-10T00:00:00.000Z",
+    "amount": 4161,
+    "recovered": 1973,
+    "avg": 2834,
+    "sum": 146509,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-11T00:00:00.000Z",
+    "amount": 3976,
+    "recovered": 1771,
+    "avg": 3048,
+    "sum": 150485,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-12T00:00:00.000Z",
+    "amount": 2720,
+    "recovered": 1262,
+    "avg": 3241,
+    "sum": 153205,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-13T00:00:00.000Z",
+    "amount": 3174,
+    "recovered": 3268,
+    "avg": 3415,
+    "sum": 156379,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-14T00:00:00.000Z",
+    "amount": 4811,
+    "recovered": 2402,
+    "avg": 3557,
+    "sum": 161190,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-15T00:00:00.000Z",
+    "amount": 5541,
+    "recovered": 2272,
+    "avg": 3760,
+    "sum": 166731,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-16T00:00:00.000Z",
+    "amount": 4576,
+    "recovered": 2795,
+    "avg": 4053,
+    "sum": 171307,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-17T00:00:00.000Z",
+    "amount": 5387,
+    "recovered": 3709,
+    "avg": 4137,
+    "sum": 176694,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-18T00:00:00.000Z",
+    "amount": 5341,
+    "recovered": 2849,
+    "avg": 4312,
+    "sum": 182035,
+    "coronaEvents": "סגר שני"
+    },
+    {
+    "date": "2020-09-19T00:00:00.000Z",
+    "amount": 3812,
+    "recovered": 1445,
+    "avg": 4507,
+    "sum": 185847,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-20T00:00:00.000Z",
+    "amount": 2578,
+    "recovered": 2477,
+    "avg": 4663,
+    "sum": 188425,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-21T00:00:00.000Z",
+    "amount": 3875,
+    "recovered": 4658,
+    "avg": 4578,
+    "sum": 192300,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-22T00:00:00.000Z",
+    "amount": 7028,
+    "recovered": 3521,
+    "avg": 4444,
+    "sum": 199328,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-23T00:00:00.000Z",
+    "amount": 7151,
+    "recovered": 3821,
+    "avg": 4656,
+    "sum": 206479,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-24T00:00:00.000Z",
+    "amount": 8272,
+    "recovered": 4599,
+    "avg": 5024,
+    "sum": 214751,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-25T00:00:00.000Z",
+    "amount": 8397,
+    "recovered": 4150,
+    "avg": 5436,
+    "sum": 223148,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-26T00:00:00.000Z",
+    "amount": 5882,
+    "recovered": 2395,
+    "avg": 5873,
+    "sum": 229030,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-27T00:00:00.000Z",
+    "amount": 3441,
+    "recovered": 5699,
+    "avg": 6169,
+    "sum": 232471,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-28T00:00:00.000Z",
+    "amount": 1159,
+    "recovered": 2172,
+    "avg": 6292,
+    "sum": 233630,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-29T00:00:00.000Z",
+    "amount": 4992,
+    "recovered": 5813,
+    "avg": 5904,
+    "sum": 238622,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-09-30T00:00:00.000Z",
+    "amount": 9078,
+    "recovered": 5187,
+    "avg": 5613,
+    "sum": 247700,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-01T00:00:00.000Z",
+    "amount": 7730,
+    "recovered": 5765,
+    "avg": 5888,
+    "sum": 255430,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-02T00:00:00.000Z",
+    "amount": 7061,
+    "recovered": 5595,
+    "avg": 5811,
+    "sum": 262491,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-03T00:00:00.000Z",
+    "amount": 2595,
+    "recovered": 3509,
+    "avg": 5620,
+    "sum": 265086,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-04T00:00:00.000Z",
+    "amount": 2939,
+    "recovered": 8106,
+    "avg": 5150,
+    "sum": 268025,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-05T00:00:00.000Z",
+    "amount": 5722,
+    "recovered": 6964,
+    "avg": 5079,
+    "sum": 273747,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-06T00:00:00.000Z",
+    "amount": 4725,
+    "recovered": 6441,
+    "avg": 5731,
+    "sum": 278472,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-07T00:00:00.000Z",
+    "amount": 4164,
+    "recovered": 4899,
+    "avg": 5692,
+    "sum": 282636,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-08T00:00:00.000Z",
+    "amount": 3756,
+    "recovered": 4816,
+    "avg": 4990,
+    "sum": 286392,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-09T00:00:00.000Z",
+    "amount": 2964,
+    "recovered": 5110,
+    "avg": 4423,
+    "sum": 289356,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-10T00:00:00.000Z",
+    "amount": 916,
+    "recovered": 3806,
+    "avg": 3837,
+    "sum": 290272,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-11T00:00:00.000Z",
+    "amount": 1646,
+    "recovered": 7574,
+    "avg": 3598,
+    "sum": 291918,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-12T00:00:00.000Z",
+    "amount": 3171,
+    "recovered": 5525,
+    "avg": 3413,
+    "sum": 295089,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-13T00:00:00.000Z",
+    "amount": 2336,
+    "recovered": 5737,
+    "avg": 3048,
+    "sum": 297425,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-14T00:00:00.000Z",
+    "amount": 2118,
+    "recovered": 5851,
+    "avg": 2707,
+    "sum": 299543,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-15T00:00:00.000Z",
+    "amount": 1612,
+    "recovered": 5429,
+    "avg": 2415,
+    "sum": 301155,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-16T00:00:00.000Z",
+    "amount": 1500,
+    "recovered": 3488,
+    "avg": 2109,
+    "sum": 302655,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-17T00:00:00.000Z",
+    "amount": 412,
+    "recovered": 2515,
+    "avg": 1899,
+    "sum": 303067,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-18T00:00:00.000Z",
+    "amount": 924,
+    "recovered": 4933,
+    "avg": 1827,
+    "sum": 303991,
+    "coronaEvents": "פתיחת סגר שני"
+    },
+    {
+    "date": "2020-10-19T00:00:00.000Z",
+    "amount": 1519,
+    "recovered": 2356,
+    "avg": 1724,
+    "sum": 305510,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-20T00:00:00.000Z",
+    "amount": 1194,
+    "recovered": 1806,
+    "avg": 1488,
+    "sum": 306704,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-21T00:00:00.000Z",
+    "amount": 1170,
+    "recovered": 3145,
+    "avg": 1325,
+    "sum": 307874,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-22T00:00:00.000Z",
+    "amount": 1032,
+    "recovered": 3127,
+    "avg": 1190,
+    "sum": 308906,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-23T00:00:00.000Z",
+    "amount": 850,
+    "recovered": 2431,
+    "avg": 1107,
+    "sum": 309756,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-24T00:00:00.000Z",
+    "amount": 246,
+    "recovered": 1307,
+    "avg": 1014,
+    "sum": 310002,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-25T00:00:00.000Z",
+    "amount": 606,
+    "recovered": 2688,
+    "avg": 990,
+    "sum": 310608,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-26T00:00:00.000Z",
+    "amount": 884,
+    "recovered": 1292,
+    "avg": 945,
+    "sum": 311492,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-27T00:00:00.000Z",
+    "amount": 887,
+    "recovered": 959,
+    "avg": 854,
+    "sum": 312379,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-28T00:00:00.000Z",
+    "amount": 724,
+    "recovered": 1297,
+    "avg": 810,
+    "sum": 313103,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-29T00:00:00.000Z",
+    "amount": 646,
+    "recovered": 1442,
+    "avg": 747,
+    "sum": 313749,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-30T00:00:00.000Z",
+    "amount": 680,
+    "recovered": 1066,
+    "avg": 691,
+    "sum": 314429,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-10-31T00:00:00.000Z",
+    "amount": 228,
+    "recovered": 794,
+    "avg": 667,
+    "sum": 314657,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-01T00:00:00.000Z",
+    "amount": 658,
+    "recovered": 1514,
+    "avg": 665,
+    "sum": 315315,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-02T00:00:00.000Z",
+    "amount": 789,
+    "recovered": 912,
+    "avg": 672,
+    "sum": 316104,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-03T00:00:00.000Z",
+    "amount": 845,
+    "recovered": 730,
+    "avg": 658,
+    "sum": 316949,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-04T00:00:00.000Z",
+    "amount": 769,
+    "recovered": 627,
+    "avg": 652,
+    "sum": 317718,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-05T00:00:00.000Z",
+    "amount": 570,
+    "recovered": 844,
+    "avg": 659,
+    "sum": 318288,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-06T00:00:00.000Z",
+    "amount": 692,
+    "recovered": 891,
+    "avg": 648,
+    "sum": 318980,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-07T00:00:00.000Z",
+    "amount": 212,
+    "recovered": 685,
+    "avg": 650,
+    "sum": 319192,
+    "coronaEvents": "הקלות סגר שני – פתיחת חנויות רחוב"
+    },
+    {
+    "date": "2020-11-08T00:00:00.000Z",
+    "amount": 534,
+    "recovered": 678,
+    "avg": 647,
+    "sum": 319726,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-09T00:00:00.000Z",
+    "amount": 719,
+    "recovered": 923,
+    "avg": 630,
+    "sum": 320445,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-10T00:00:00.000Z",
+    "amount": 675,
+    "recovered": 337,
+    "avg": 620,
+    "sum": 321120,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-11T00:00:00.000Z",
+    "amount": 765,
+    "recovered": 1083,
+    "avg": 595,
+    "sum": 321885,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-12T00:00:00.000Z",
+    "amount": 836,
+    "recovered": 1208,
+    "avg": 595,
+    "sum": 322721,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-13T00:00:00.000Z",
+    "amount": 761,
+    "recovered": 735,
+    "avg": 633,
+    "sum": 323482,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-14T00:00:00.000Z",
+    "amount": 292,
+    "recovered": 422,
+    "avg": 643,
+    "sum": 323774,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-15T00:00:00.000Z",
+    "amount": 626,
+    "recovered": 969,
+    "avg": 654,
+    "sum": 324400,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-16T00:00:00.000Z",
+    "amount": 873,
+    "recovered": 660,
+    "avg": 667,
+    "sum": 325273,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-17T00:00:00.000Z",
+    "amount": 829,
+    "recovered": 577,
+    "avg": 689,
+    "sum": 326102,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-18T00:00:00.000Z",
+    "amount": 795,
+    "recovered": 798,
+    "avg": 711,
+    "sum": 326897,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-19T00:00:00.000Z",
+    "amount": 771,
+    "recovered": 750,
+    "avg": 716,
+    "sum": 327668,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-20T00:00:00.000Z",
+    "amount": 773,
+    "recovered": 673,
+    "avg": 706,
+    "sum": 328441,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-21T00:00:00.000Z",
+    "amount": 423,
+    "recovered": 448,
+    "avg": 708,
+    "sum": 328864,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-22T00:00:00.000Z",
+    "amount": 762,
+    "recovered": 1004,
+    "avg": 727,
+    "sum": 329626,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-23T00:00:00.000Z",
+    "amount": 959,
+    "recovered": 651,
+    "avg": 746,
+    "sum": 330585,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-24T00:00:00.000Z",
+    "amount": 857,
+    "recovered": 541,
+    "avg": 758,
+    "sum": 331442,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-25T00:00:00.000Z",
+    "amount": 1080,
+    "recovered": 846,
+    "avg": 762,
+    "sum": 332522,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-26T00:00:00.000Z",
+    "amount": 1087,
+    "recovered": 925,
+    "avg": 803,
+    "sum": 333609,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-27T00:00:00.000Z",
+    "amount": 1034,
+    "recovered": 692,
+    "avg": 848,
+    "sum": 334643,
+    "coronaEvents": "הקלות סגר שני – פיילוט קניונים"
+    },
+    {
+    "date": "2020-11-28T00:00:00.000Z",
+    "amount": 583,
+    "recovered": 422,
+    "avg": 886,
+    "sum": 335226,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-29T00:00:00.000Z",
+    "amount": 1024,
+    "recovered": 1108,
+    "avg": 908,
+    "sum": 336250,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-11-30T00:00:00.000Z",
+    "amount": 1257,
+    "recovered": 736,
+    "avg": 946,
+    "sum": 337507,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-01T00:00:00.000Z",
+    "amount": 1198,
+    "recovered": 700,
+    "avg": 988,
+    "sum": 338705,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-02T00:00:00.000Z",
+    "amount": 1588,
+    "recovered": 844,
+    "avg": 1037,
+    "sum": 340293,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-03T00:00:00.000Z",
+    "amount": 1452,
+    "recovered": 1428,
+    "avg": 1110,
+    "sum": 341745,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-04T00:00:00.000Z",
+    "amount": 1516,
+    "recovered": 866,
+    "avg": 1162,
+    "sum": 343261,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-05T00:00:00.000Z",
+    "amount": 1001,
+    "recovered": 597,
+    "avg": 1231,
+    "sum": 344262,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-06T00:00:00.000Z",
+    "amount": 1364,
+    "recovered": 1393,
+    "avg": 1290,
+    "sum": 345626,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-07T00:00:00.000Z",
+    "amount": 1859,
+    "recovered": 909,
+    "avg": 1339,
+    "sum": 347485,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-08T00:00:00.000Z",
+    "amount": 1768,
+    "recovered": 891,
+    "avg": 1425,
+    "sum": 349253,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-09T00:00:00.000Z",
+    "amount": 1867,
+    "recovered": 1026,
+    "avg": 1506,
+    "sum": 351120,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-10T00:00:00.000Z",
+    "amount": 2006,
+    "recovered": 1434,
+    "avg": 1546,
+    "sum": 353126,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-11T00:00:00.000Z",
+    "amount": 1835,
+    "recovered": 1146,
+    "avg": 1625,
+    "sum": 354961,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-12T00:00:00.000Z",
+    "amount": 1298,
+    "recovered": 920,
+    "avg": 1671,
+    "sum": 356259,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-13T00:00:00.000Z",
+    "amount": 1729,
+    "recovered": 1913,
+    "avg": 1713,
+    "sum": 357988,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-14T00:00:00.000Z",
+    "amount": 2314,
+    "recovered": 1267,
+    "avg": 1766,
+    "sum": 360302,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-15T00:00:00.000Z",
+    "amount": 2890,
+    "recovered": 1210,
+    "avg": 1831,
+    "sum": 363192,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-16T00:00:00.000Z",
+    "amount": 2852,
+    "recovered": 1629,
+    "avg": 1991,
+    "sum": 366044,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-17T00:00:00.000Z",
+    "amount": 2847,
+    "recovered": 1951,
+    "avg": 2132,
+    "sum": 368891,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-18T00:00:00.000Z",
+    "amount": 2793,
+    "recovered": 1564,
+    "avg": 2252,
+    "sum": 371684,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-19T00:00:00.000Z",
+    "amount": 1885,
+    "recovered": 1089,
+    "avg": 2389,
+    "sum": 373569,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-20T00:00:00.000Z",
+    "amount": 3092,
+    "recovered": 2581,
+    "avg": 2472,
+    "sum": 376661,
+    "coronaEvents": "תחילת חיסונים מנה 1"
+    },
+    {
+    "date": "2020-12-21T00:00:00.000Z",
+    "amount": 3855,
+    "recovered": 1562,
+    "avg": 2667,
+    "sum": 380516,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-22T00:00:00.000Z",
+    "amount": 4381,
+    "recovered": 1627,
+    "avg": 2887,
+    "sum": 384897,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-23T00:00:00.000Z",
+    "amount": 4038,
+    "recovered": 2030,
+    "avg": 3100,
+    "sum": 388935,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-24T00:00:00.000Z",
+    "amount": 4054,
+    "recovered": 2876,
+    "avg": 3270,
+    "sum": 392989,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-25T00:00:00.000Z",
+    "amount": 4012,
+    "recovered": 2404,
+    "avg": 3442,
+    "sum": 397001,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-26T00:00:00.000Z",
+    "amount": 2659,
+    "recovered": 1819,
+    "avg": 3616,
+    "sum": 399660,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-27T00:00:00.000Z",
+    "amount": 3528,
+    "recovered": 4223,
+    "avg": 3727,
+    "sum": 403188,
+    "coronaEvents": "סגר שלישי"
+    },
+    {
+    "date": "2020-12-28T00:00:00.000Z",
+    "amount": 5519,
+    "recovered": 2482,
+    "avg": 3789,
+    "sum": 408707,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-29T00:00:00.000Z",
+    "amount": 5639,
+    "recovered": 2395,
+    "avg": 4027,
+    "sum": 414346,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-30T00:00:00.000Z",
+    "amount": 5867,
+    "recovered": 3735,
+    "avg": 4207,
+    "sum": 420213,
+    "coronaEvents": null
+    },
+    {
+    "date": "2020-12-31T00:00:00.000Z",
+    "amount": 5875,
+    "recovered": 4283,
+    "avg": 4468,
+    "sum": 426088,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-01T00:00:00.000Z",
+    "amount": 6021,
+    "recovered": 3474,
+    "avg": 4728,
+    "sum": 432109,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-02T00:00:00.000Z",
+    "amount": 4219,
+    "recovered": 2049,
+    "avg": 5015,
+    "sum": 436328,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-03T00:00:00.000Z",
+    "amount": 5230,
+    "recovered": 5586,
+    "avg": 5238,
+    "sum": 441558,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-04T00:00:00.000Z",
+    "amount": 8408,
+    "recovered": 3101,
+    "avg": 5481,
+    "sum": 449966,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-05T00:00:00.000Z",
+    "amount": 8237,
+    "recovered": 2967,
+    "avg": 5894,
+    "sum": 458203,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-06T00:00:00.000Z",
+    "amount": 7878,
+    "recovered": 4799,
+    "avg": 6265,
+    "sum": 466081,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-07T00:00:00.000Z",
+    "amount": 7648,
+    "recovered": 5875,
+    "avg": 6552,
+    "sum": 473729,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-08T00:00:00.000Z",
+    "amount": 8160,
+    "recovered": 4858,
+    "avg": 6805,
+    "sum": 481889,
+    "coronaEvents": "הידוק סגר שלישי"
+    },
+    {
+    "date": "2021-01-09T00:00:00.000Z",
+    "amount": 5158,
+    "recovered": 3102,
+    "avg": 7111,
+    "sum": 487047,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-10T00:00:00.000Z",
+    "amount": 6937,
+    "recovered": 8397,
+    "avg": 7245,
+    "sum": 493984,
+    "coronaEvents": "תחילת חיסונים מנה 2"
+    },
+    {
+    "date": "2021-01-11T00:00:00.000Z",
+    "amount": 9714,
+    "recovered": 4870,
+    "avg": 7489,
+    "sum": 503698,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-12T00:00:00.000Z",
+    "amount": 9299,
+    "recovered": 4583,
+    "avg": 7676,
+    "sum": 512997,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-13T00:00:00.000Z",
+    "amount": 9471,
+    "recovered": 8045,
+    "avg": 7827,
+    "sum": 522468,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-14T00:00:00.000Z",
+    "amount": 9295,
+    "recovered": 9251,
+    "avg": 8055,
+    "sum": 531763,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-15T00:00:00.000Z",
+    "amount": 8429,
+    "recovered": 8051,
+    "avg": 8290,
+    "sum": 540192,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-16T00:00:00.000Z",
+    "amount": 5087,
+    "recovered": 4294,
+    "avg": 8329,
+    "sum": 545279,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-17T00:00:00.000Z",
+    "amount": 5647,
+    "recovered": 10953,
+    "avg": 8318,
+    "sum": 550926,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-18T00:00:00.000Z",
+    "amount": 10118,
+    "recovered": 6187,
+    "avg": 8134,
+    "sum": 561044,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-19T00:00:00.000Z",
+    "amount": 8625,
+    "recovered": 5527,
+    "avg": 8192,
+    "sum": 569669,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-20T00:00:00.000Z",
+    "amount": 8364,
+    "recovered": 8813,
+    "avg": 8096,
+    "sum": 578033,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-21T00:00:00.000Z",
+    "amount": 7273,
+    "recovered": 10047,
+    "avg": 7937,
+    "sum": 585306,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-22T00:00:00.000Z",
+    "amount": 7389,
+    "recovered": 8517,
+    "avg": 7649,
+    "sum": 592695,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-23T00:00:00.000Z",
+    "amount": 2449,
+    "recovered": 4204,
+    "avg": 7500,
+    "sum": 595144,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-24T00:00:00.000Z",
+    "amount": 4945,
+    "recovered": 10612,
+    "avg": 7123,
+    "sum": 600089,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-25T00:00:00.000Z",
+    "amount": 8732,
+    "recovered": 5651,
+    "avg": 7023,
+    "sum": 608821,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-26T00:00:00.000Z",
+    "amount": 7801,
+    "recovered": 5113,
+    "avg": 6825,
+    "sum": 616622,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-27T00:00:00.000Z",
+    "amount": 7728,
+    "recovered": 8723,
+    "avg": 6707,
+    "sum": 624350,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-28T00:00:00.000Z",
+    "amount": 7184,
+    "recovered": 9285,
+    "avg": 6616,
+    "sum": 631534,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-29T00:00:00.000Z",
+    "amount": 6761,
+    "recovered": 7585,
+    "avg": 6604,
+    "sum": 638295,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-30T00:00:00.000Z",
+    "amount": 2623,
+    "recovered": 3565,
+    "avg": 6514,
+    "sum": 640918,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-01-31T00:00:00.000Z",
+    "amount": 5226,
+    "recovered": 10157,
+    "avg": 6539,
+    "sum": 646144,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-01T00:00:00.000Z",
+    "amount": 8925,
+    "recovered": 5168,
+    "avg": 6579,
+    "sum": 655069,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-02T00:00:00.000Z",
+    "amount": 8017,
+    "recovered": 4420,
+    "avg": 6606,
+    "sum": 663086,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-03T00:00:00.000Z",
+    "amount": 7470,
+    "recovered": 8247,
+    "avg": 6637,
+    "sum": 670556,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-04T00:00:00.000Z",
+    "amount": 7250,
+    "recovered": 8185,
+    "avg": 6600,
+    "sum": 677806,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-05T00:00:00.000Z",
+    "amount": 6585,
+    "recovered": 7295,
+    "avg": 6610,
+    "sum": 684391,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-06T00:00:00.000Z",
+    "amount": 2657,
+    "recovered": 3071,
+    "avg": 6585,
+    "sum": 687048,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-07T00:00:00.000Z",
+    "amount": 4596,
+    "recovered": 9772,
+    "avg": 6590,
+    "sum": 691644,
+    "coronaEvents": "פתיחת סגר שלשי "
+    },
+    {
+    "date": "2021-02-08T00:00:00.000Z",
+    "amount": 7844,
+    "recovered": 5024,
+    "avg": 6500,
+    "sum": 699488,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-09T00:00:00.000Z",
+    "amount": 6165,
+    "recovered": 4928,
+    "avg": 6345,
+    "sum": 705653,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-10T00:00:00.000Z",
+    "amount": 5676,
+    "recovered": 8302,
+    "avg": 6081,
+    "sum": 711329,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-11T00:00:00.000Z",
+    "amount": 5009,
+    "recovered": 8790,
+    "avg": 5824,
+    "sum": 716338,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-12T00:00:00.000Z",
+    "amount": 4670,
+    "recovered": 7251,
+    "avg": 5504,
+    "sum": 721008,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-13T00:00:00.000Z",
+    "amount": 1888,
+    "recovered": 3424,
+    "avg": 5231,
+    "sum": 722896,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-14T00:00:00.000Z",
+    "amount": 3483,
+    "recovered": 9651,
+    "avg": 5121,
+    "sum": 726379,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-15T00:00:00.000Z",
+    "amount": 5191,
+    "recovered": 4890,
+    "avg": 4962,
+    "sum": 731570,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-16T00:00:00.000Z",
+    "amount": 4569,
+    "recovered": 3752,
+    "avg": 4583,
+    "sum": 736139,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-17T00:00:00.000Z",
+    "amount": 4168,
+    "recovered": 6550,
+    "avg": 4355,
+    "sum": 740307,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-18T00:00:00.000Z",
+    "amount": 3332,
+    "recovered": 7511,
+    "avg": 4139,
+    "sum": 743639,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-19T00:00:00.000Z",
+    "amount": 3793,
+    "recovered": 5919,
+    "avg": 3900,
+    "sum": 747432,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-20T00:00:00.000Z",
+    "amount": 1255,
+    "recovered": 3412,
+    "avg": 3774,
+    "sum": 748687,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-21T00:00:00.000Z",
+    "amount": 3107,
+    "recovered": 7435,
+    "avg": 3684,
+    "sum": 751794,
+    "coronaEvents": "פתיחה חלקית של המשק לאחר סגר שלישי"
+    },
+    {
+    "date": "2021-02-22T00:00:00.000Z",
+    "amount": 4809,
+    "recovered": 3678,
+    "avg": 3630,
+    "sum": 756603,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-23T00:00:00.000Z",
+    "amount": 4447,
+    "recovered": 3172,
+    "avg": 3576,
+    "sum": 761050,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-24T00:00:00.000Z",
+    "amount": 4374,
+    "recovered": 5389,
+    "avg": 3558,
+    "sum": 765424,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-25T00:00:00.000Z",
+    "amount": 3814,
+    "recovered": 5024,
+    "avg": 3588,
+    "sum": 769238,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-26T00:00:00.000Z",
+    "amount": 3813,
+    "recovered": 3760,
+    "avg": 3657,
+    "sum": 773051,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-27T00:00:00.000Z",
+    "amount": 1438,
+    "recovered": 1565,
+    "avg": 3659,
+    "sum": 774489,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-02-28T00:00:00.000Z",
+    "amount": 3060,
+    "recovered": 5674,
+    "avg": 3686,
+    "sum": 777549,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-01T00:00:00.000Z",
+    "amount": 4855,
+    "recovered": 2736,
+    "avg": 3679,
+    "sum": 782404,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-02T00:00:00.000Z",
+    "amount": 4378,
+    "recovered": 2920,
+    "avg": 3685,
+    "sum": 786782,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-03T00:00:00.000Z",
+    "amount": 4669,
+    "recovered": 4602,
+    "avg": 3676,
+    "sum": 791451,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-04T00:00:00.000Z",
+    "amount": 3659,
+    "recovered": 4794,
+    "avg": 3718,
+    "sum": 795110,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-05T00:00:00.000Z",
+    "amount": 3712,
+    "recovered": 3995,
+    "avg": 3696,
+    "sum": 798822,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-06T00:00:00.000Z",
+    "amount": 1870,
+    "recovered": 1920,
+    "avg": 3681,
+    "sum": 800692,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-07T00:00:00.000Z",
+    "amount": 2345,
+    "recovered": 5711,
+    "avg": 3743,
+    "sum": 803037,
+    "coronaEvents": "פתיחת משק מלאה לאחר סגר שלישי"
+    },
+    {
+    "date": "2021-03-08T00:00:00.000Z",
+    "amount": 3783,
+    "recovered": 2680,
+    "avg": 3641,
+    "sum": 806820,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-09T00:00:00.000Z",
+    "amount": 3120,
+    "recovered": 2923,
+    "avg": 3488,
+    "sum": 809940,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-10T00:00:00.000Z",
+    "amount": 2833,
+    "recovered": 4596,
+    "avg": 3308,
+    "sum": 812773,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-11T00:00:00.000Z",
+    "amount": 2549,
+    "recovered": 5001,
+    "avg": 3046,
+    "sum": 815322,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-12T00:00:00.000Z",
+    "amount": 2413,
+    "recovered": 3908,
+    "avg": 2887,
+    "sum": 817735,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-13T00:00:00.000Z",
+    "amount": 783,
+    "recovered": 2036,
+    "avg": 2701,
+    "sum": 818518,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-14T00:00:00.000Z",
+    "amount": 1389,
+    "recovered": 5823,
+    "avg": 2546,
+    "sum": 819907,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-15T00:00:00.000Z",
+    "amount": 2123,
+    "recovered": 2657,
+    "avg": 2410,
+    "sum": 822030,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-16T00:00:00.000Z",
+    "amount": 1564,
+    "recovered": 2243,
+    "avg": 2172,
+    "sum": 823594,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-17T00:00:00.000Z",
+    "amount": 1530,
+    "recovered": 3635,
+    "avg": 1950,
+    "sum": 825124,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-18T00:00:00.000Z",
+    "amount": 1247,
+    "recovered": 3602,
+    "avg": 1764,
+    "sum": 826371,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-19T00:00:00.000Z",
+    "amount": 1083,
+    "recovered": 2552,
+    "avg": 1578,
+    "sum": 827454,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-20T00:00:00.000Z",
+    "amount": 349,
+    "recovered": 1463,
+    "avg": 1388,
+    "sum": 827803,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-21T00:00:00.000Z",
+    "amount": 674,
+    "recovered": 3498,
+    "avg": 1326,
+    "sum": 828477,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-22T00:00:00.000Z",
+    "amount": 979,
+    "recovered": 1692,
+    "avg": 1224,
+    "sum": 829456,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-23T00:00:00.000Z",
+    "amount": 688,
+    "recovered": 739,
+    "avg": 1060,
+    "sum": 830144,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-24T00:00:00.000Z",
+    "amount": 478,
+    "recovered": 2253,
+    "avg": 935,
+    "sum": 830622,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-25T00:00:00.000Z",
+    "amount": 843,
+    "recovered": 2108,
+    "avg": 785,
+    "sum": 831465,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-26T00:00:00.000Z",
+    "amount": 520,
+    "recovered": 1495,
+    "avg": 727,
+    "sum": 831985,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-27T00:00:00.000Z",
+    "amount": 231,
+    "recovered": 859,
+    "avg": 647,
+    "sum": 832216,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-28T00:00:00.000Z",
+    "amount": 129,
+    "recovered": 882,
+    "avg": 630,
+    "sum": 832345,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-29T00:00:00.000Z",
+    "amount": 363,
+    "recovered": 1471,
+    "avg": 552,
+    "sum": 832708,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-30T00:00:00.000Z",
+    "amount": 443,
+    "recovered": 823,
+    "avg": 464,
+    "sum": 833151,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-03-31T00:00:00.000Z",
+    "amount": 492,
+    "recovered": 1077,
+    "avg": 429,
+    "sum": 833643,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-01T00:00:00.000Z",
+    "amount": 335,
+    "recovered": 1065,
+    "avg": 431,
+    "sum": 833978,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-02T00:00:00.000Z",
+    "amount": 418,
+    "recovered": 643,
+    "avg": 359,
+    "sum": 834396,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-03T00:00:00.000Z",
+    "amount": 124,
+    "recovered": 464,
+    "avg": 344,
+    "sum": 834520,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-04T00:00:00.000Z",
+    "amount": 196,
+    "recovered": 1059,
+    "avg": 329,
+    "sum": 834716,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-05T00:00:00.000Z",
+    "amount": 380,
+    "recovered": 510,
+    "avg": 338,
+    "sum": 835096,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-06T00:00:00.000Z",
+    "amount": 305,
+    "recovered": 494,
+    "avg": 341,
+    "sum": 835401,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-07T00:00:00.000Z",
+    "amount": 276,
+    "recovered": 425,
+    "avg": 321,
+    "sum": 835677,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-08T00:00:00.000Z",
+    "amount": 212,
+    "recovered": 641,
+    "avg": 290,
+    "sum": 835889,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-09T00:00:00.000Z",
+    "amount": 223,
+    "recovered": 578,
+    "avg": 273,
+    "sum": 836112,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-10T00:00:00.000Z",
+    "amount": 86,
+    "recovered": 388,
+    "avg": 245,
+    "sum": 836198,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-11T00:00:00.000Z",
+    "amount": 139,
+    "recovered": 777,
+    "avg": 239,
+    "sum": 836337,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-12T00:00:00.000Z",
+    "amount": 221,
+    "recovered": 362,
+    "avg": 231,
+    "sum": 836558,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-13T00:00:00.000Z",
+    "amount": 199,
+    "recovered": 380,
+    "avg": 208,
+    "sum": 836757,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-14T00:00:00.000Z",
+    "amount": 196,
+    "recovered": 483,
+    "avg": 193,
+    "sum": 836953,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-15T00:00:00.000Z",
+    "amount": 95,
+    "recovered": 260,
+    "avg": 182,
+    "sum": 837048,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-16T00:00:00.000Z",
+    "amount": 109,
+    "recovered": 366,
+    "avg": 165,
+    "sum": 837157,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-17T00:00:00.000Z",
+    "amount": 83,
+    "recovered": 213,
+    "avg": 149,
+    "sum": 837240,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-18T00:00:00.000Z",
+    "amount": 141,
+    "recovered": 548,
+    "avg": 148,
+    "sum": 837381,
+    "coronaEvents": "ביטול חובת עטית מסיכה בשטח פתוח, פתיחת לימודים ללא קפסולות"
+    },
+    {
+    "date": "2021-04-19T00:00:00.000Z",
+    "amount": 133,
+    "recovered": 200,
+    "avg": 149,
+    "sum": 837514,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-20T00:00:00.000Z",
+    "amount": 159,
+    "recovered": 228,
+    "avg": 136,
+    "sum": 837673,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-21T00:00:00.000Z",
+    "amount": 114,
+    "recovered": 237,
+    "avg": 130,
+    "sum": 837787,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-22T00:00:00.000Z",
+    "amount": 129,
+    "recovered": 336,
+    "avg": 119,
+    "sum": 837916,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-23T00:00:00.000Z",
+    "amount": 108,
+    "recovered": 266,
+    "avg": 124,
+    "sum": 838024,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-24T00:00:00.000Z",
+    "amount": 39,
+    "recovered": 116,
+    "avg": 123,
+    "sum": 838063,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-25T00:00:00.000Z",
+    "amount": 77,
+    "recovered": 193,
+    "avg": 117,
+    "sum": 838140,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-26T00:00:00.000Z",
+    "amount": 93,
+    "recovered": 146,
+    "avg": 108,
+    "sum": 838233,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-27T00:00:00.000Z",
+    "amount": 87,
+    "recovered": 148,
+    "avg": 102,
+    "sum": 838320,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-28T00:00:00.000Z",
+    "amount": 95,
+    "recovered": 177,
+    "avg": 92,
+    "sum": 838415,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-29T00:00:00.000Z",
+    "amount": 93,
+    "recovered": 170,
+    "avg": 89,
+    "sum": 838508,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-04-30T00:00:00.000Z",
+    "amount": 79,
+    "recovered": 130,
+    "avg": 84,
+    "sum": 838587,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-01T00:00:00.000Z",
+    "amount": 14,
+    "recovered": 71,
+    "avg": 80,
+    "sum": 838601,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-02T00:00:00.000Z",
+    "amount": 50,
+    "recovered": 218,
+    "avg": 76,
+    "sum": 838651,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-03T00:00:00.000Z",
+    "amount": 65,
+    "recovered": 152,
+    "avg": 73,
+    "sum": 838716,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-04T00:00:00.000Z",
+    "amount": 63,
+    "recovered": 106,
+    "avg": 69,
+    "sum": 838779,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-05T00:00:00.000Z",
+    "amount": 68,
+    "recovered": 141,
+    "avg": 65,
+    "sum": 838847,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-06T00:00:00.000Z",
+    "amount": 48,
+    "recovered": 144,
+    "avg": 61,
+    "sum": 838895,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-07T00:00:00.000Z",
+    "amount": 33,
+    "recovered": 88,
+    "avg": 55,
+    "sum": 838928,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-08T00:00:00.000Z",
+    "amount": 16,
+    "recovered": 63,
+    "avg": 48,
+    "sum": 838944,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-09T00:00:00.000Z",
+    "amount": 33,
+    "recovered": 145,
+    "avg": 49,
+    "sum": 838977,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-10T00:00:00.000Z",
+    "amount": 51,
+    "recovered": 57,
+    "avg": 46,
+    "sum": 839028,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-11T00:00:00.000Z",
+    "amount": 34,
+    "recovered": 83,
+    "avg": 44,
+    "sum": 839062,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-12T00:00:00.000Z",
+    "amount": 27,
+    "recovered": 93,
+    "avg": 40,
+    "sum": 839089,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-13T00:00:00.000Z",
+    "amount": 30,
+    "recovered": 72,
+    "avg": 34,
+    "sum": 839119,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-14T00:00:00.000Z",
+    "amount": 27,
+    "recovered": 66,
+    "avg": 32,
+    "sum": 839146,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-15T00:00:00.000Z",
+    "amount": 20,
+    "recovered": 46,
+    "avg": 31,
+    "sum": 839166,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-16T00:00:00.000Z",
+    "amount": 29,
+    "recovered": 101,
+    "avg": 31,
+    "sum": 839195,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-17T00:00:00.000Z",
+    "amount": 15,
+    "recovered": 18,
+    "avg": 31,
+    "sum": 839210,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-18T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 92,
+    "avg": 26,
+    "sum": 839232,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-19T00:00:00.000Z",
+    "amount": 55,
+    "recovered": 91,
+    "avg": 24,
+    "sum": 839287,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-20T00:00:00.000Z",
+    "amount": 33,
+    "recovered": 75,
+    "avg": 28,
+    "sum": 839320,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-21T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 33,
+    "avg": 28,
+    "sum": 839342,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-22T00:00:00.000Z",
+    "amount": 12,
+    "recovered": 24,
+    "avg": 28,
+    "sum": 839354,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-23T00:00:00.000Z",
+    "amount": 26,
+    "recovered": 86,
+    "avg": 26,
+    "sum": 839380,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-24T00:00:00.000Z",
+    "amount": 28,
+    "recovered": 30,
+    "avg": 26,
+    "sum": 839408,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-25T00:00:00.000Z",
+    "amount": 22,
+    "recovered": 42,
+    "avg": 28,
+    "sum": 839430,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-26T00:00:00.000Z",
+    "amount": 14,
+    "recovered": 36,
+    "avg": 28,
+    "sum": 839444,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-27T00:00:00.000Z",
+    "amount": 14,
+    "recovered": 38,
+    "avg": 22,
+    "sum": 839458,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-28T00:00:00.000Z",
+    "amount": 18,
+    "recovered": 40,
+    "avg": 19,
+    "sum": 839476,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-29T00:00:00.000Z",
+    "amount": 12,
+    "recovered": 17,
+    "avg": 19,
+    "sum": 839488,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-30T00:00:00.000Z",
+    "amount": 3,
+    "recovered": 70,
+    "avg": 19,
+    "sum": 839491,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-05-31T00:00:00.000Z",
+    "amount": 14,
+    "recovered": 27,
+    "avg": 15,
+    "sum": 839505,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-01T00:00:00.000Z",
+    "amount": 35,
+    "recovered": 36,
+    "avg": 13,
+    "sum": 839540,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-02T00:00:00.000Z",
+    "amount": 13,
+    "recovered": 48,
+    "avg": 15,
+    "sum": 839553,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-03T00:00:00.000Z",
+    "amount": 10,
+    "recovered": 138,
+    "avg": 15,
+    "sum": 839563,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-04T00:00:00.000Z",
+    "amount": 31,
+    "recovered": 11,
+    "avg": 15,
+    "sum": 839594,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-05T00:00:00.000Z",
+    "amount": 5,
+    "recovered": 6,
+    "avg": 16,
+    "sum": 839599,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-06T00:00:00.000Z",
+    "amount": 4,
+    "recovered": 56,
+    "avg": 15,
+    "sum": 839603,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-07T00:00:00.000Z",
+    "amount": 6,
+    "recovered": 52,
+    "avg": 16,
+    "sum": 839609,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-08T00:00:00.000Z",
+    "amount": 30,
+    "recovered": 14,
+    "avg": 14,
+    "sum": 839639,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-09T00:00:00.000Z",
+    "amount": 6,
+    "recovered": 21,
+    "avg": 14,
+    "sum": 839645,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-10T00:00:00.000Z",
+    "amount": 18,
+    "recovered": 31,
+    "avg": 13,
+    "sum": 839663,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-11T00:00:00.000Z",
+    "amount": 18,
+    "recovered": 21,
+    "avg": 14,
+    "sum": 839681,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-12T00:00:00.000Z",
+    "amount": 5,
+    "recovered": 14,
+    "avg": 12,
+    "sum": 839686,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-13T00:00:00.000Z",
+    "amount": 3,
+    "recovered": 28,
+    "avg": 12,
+    "sum": 839689,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-14T00:00:00.000Z",
+    "amount": 26,
+    "recovered": 22,
+    "avg": 12,
+    "sum": 839715,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-15T00:00:00.000Z",
+    "amount": 26,
+    "recovered": 15,
+    "avg": 15,
+    "sum": 839741,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-16T00:00:00.000Z",
+    "amount": 13,
+    "recovered": 9,
+    "avg": 14,
+    "sum": 839754,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-17T00:00:00.000Z",
+    "amount": 26,
+    "recovered": 43,
+    "avg": 15,
+    "sum": 839780,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-18T00:00:00.000Z",
+    "amount": 35,
+    "recovered": 11,
+    "avg": 16,
+    "sum": 839815,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-19T00:00:00.000Z",
+    "amount": 46,
+    "recovered": 9,
+    "avg": 19,
+    "sum": 839861,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-20T00:00:00.000Z",
+    "amount": 49,
+    "recovered": 86,
+    "avg": 25,
+    "sum": 839910,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-21T00:00:00.000Z",
+    "amount": 125,
+    "recovered": 38,
+    "avg": 31,
+    "sum": 840035,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-22T00:00:00.000Z",
+    "amount": 110,
+    "recovered": 9,
+    "avg": 45,
+    "sum": 840145,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-23T00:00:00.000Z",
+    "amount": 140,
+    "recovered": 24,
+    "avg": 57,
+    "sum": 840285,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-24T00:00:00.000Z",
+    "amount": 229,
+    "recovered": 42,
+    "avg": 75,
+    "sum": 840514,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-25T00:00:00.000Z",
+    "amount": 230,
+    "recovered": 18,
+    "avg": 104,
+    "sum": 840744,
+    "coronaEvents": "החזרת חובת עטיית מסיכה בחללים סגורים"
+    },
+    {
+    "date": "2021-06-26T00:00:00.000Z",
+    "amount": 116,
+    "recovered": 15,
+    "avg": 132,
+    "sum": 840860,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-27T00:00:00.000Z",
+    "amount": 145,
+    "recovered": 72,
+    "avg": 142,
+    "sum": 841005,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-28T00:00:00.000Z",
+    "amount": 288,
+    "recovered": 58,
+    "avg": 156,
+    "sum": 841293,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-06-29T00:00:00.000Z",
+    "amount": 294,
+    "recovered": 75,
+    "avg": 179,
+    "sum": 841587,
+    "coronaEvents": "הפעלת התו הירוק במתחמים מעל 100 איש בגל הרביעי"
+    },
+    {
+    "date": "2021-06-30T00:00:00.000Z",
+    "amount": 310,
+    "recovered": 92,
+    "avg": 206,
+    "sum": 841897,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-01T00:00:00.000Z",
+    "amount": 297,
+    "recovered": 165,
+    "avg": 230,
+    "sum": 842194,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-02T00:00:00.000Z",
+    "amount": 328,
+    "recovered": 136,
+    "avg": 240,
+    "sum": 842522,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-03T00:00:00.000Z",
+    "amount": 186,
+    "recovered": 97,
+    "avg": 254,
+    "sum": 842708,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-04T00:00:00.000Z",
+    "amount": 346,
+    "recovered": 284,
+    "avg": 264,
+    "sum": 843054,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-05T00:00:00.000Z",
+    "amount": 504,
+    "recovered": 196,
+    "avg": 292,
+    "sum": 843558,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-06T00:00:00.000Z",
+    "amount": 527,
+    "recovered": 177,
+    "avg": 323,
+    "sum": 844085,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-07T00:00:00.000Z",
+    "amount": 525,
+    "recovered": 245,
+    "avg": 356,
+    "sum": 844610,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-08T00:00:00.000Z",
+    "amount": 466,
+    "recovered": 326,
+    "avg": 387,
+    "sum": 845076,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-09T00:00:00.000Z",
+    "amount": 534,
+    "recovered": 249,
+    "avg": 411,
+    "sum": 845610,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-10T00:00:00.000Z",
+    "amount": 261,
+    "recovered": 133,
+    "avg": 441,
+    "sum": 845871,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-11T00:00:00.000Z",
+    "amount": 443,
+    "recovered": 430,
+    "avg": 451,
+    "sum": 846314,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-12T00:00:00.000Z",
+    "amount": 762,
+    "recovered": 281,
+    "avg": 465,
+    "sum": 847076,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-13T00:00:00.000Z",
+    "amount": 746,
+    "recovered": 328,
+    "avg": 502,
+    "sum": 847822,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-14T00:00:00.000Z",
+    "amount": 771,
+    "recovered": 451,
+    "avg": 533,
+    "sum": 848593,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-15T00:00:00.000Z",
+    "amount": 863,
+    "recovered": 562,
+    "avg": 569,
+    "sum": 849456,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-16T00:00:00.000Z",
+    "amount": 1130,
+    "recovered": 473,
+    "avg": 625,
+    "sum": 850586,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-17T00:00:00.000Z",
+    "amount": 432,
+    "recovered": 201,
+    "avg": 710,
+    "sum": 851018,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-18T00:00:00.000Z",
+    "amount": 837,
+    "recovered": 650,
+    "avg": 735,
+    "sum": 851855,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-19T00:00:00.000Z",
+    "amount": 1385,
+    "recovered": 448,
+    "avg": 791,
+    "sum": 853240,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-20T00:00:00.000Z",
+    "amount": 1410,
+    "recovered": 383,
+    "avg": 880,
+    "sum": 854650,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-21T00:00:00.000Z",
+    "amount": 1346,
+    "recovered": 648,
+    "avg": 975,
+    "sum": 855996,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-22T00:00:00.000Z",
+    "amount": 1283,
+    "recovered": 784,
+    "avg": 1057,
+    "sum": 857279,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-23T00:00:00.000Z",
+    "amount": 1439,
+    "recovered": 698,
+    "avg": 1117,
+    "sum": 858718,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-24T00:00:00.000Z",
+    "amount": 972,
+    "recovered": 408,
+    "avg": 1161,
+    "sum": 859690,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-25T00:00:00.000Z",
+    "amount": 1416,
+    "recovered": 1306,
+    "avg": 1238,
+    "sum": 861106,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-26T00:00:00.000Z",
+    "amount": 2135,
+    "recovered": 838,
+    "avg": 1321,
+    "sum": 863241,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-27T00:00:00.000Z",
+    "amount": 2286,
+    "recovered": 902,
+    "avg": 1428,
+    "sum": 865527,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-28T00:00:00.000Z",
+    "amount": 2190,
+    "recovered": 1152,
+    "avg": 1553,
+    "sum": 867717,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-29T00:00:00.000Z",
+    "amount": 2176,
+    "recovered": 1365,
+    "avg": 1674,
+    "sum": 869893,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-30T00:00:00.000Z",
+    "amount": 2441,
+    "recovered": 1235,
+    "avg": 1802,
+    "sum": 872334,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-07-31T00:00:00.000Z",
+    "amount": 2098,
+    "recovered": 582,
+    "avg": 1945,
+    "sum": 874432,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-01T00:00:00.000Z",
+    "amount": 2124,
+    "recovered": 1916,
+    "avg": 2106,
+    "sum": 876556,
+    "coronaEvents": "תחילת חיסונים מנה 3"
+    },
+    {
+    "date": "2021-08-02T00:00:00.000Z",
+    "amount": 3858,
+    "recovered": 1118,
+    "avg": 2207,
+    "sum": 880414,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-03T00:00:00.000Z",
+    "amount": 3312,
+    "recovered": 1256,
+    "avg": 2453,
+    "sum": 883726,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-04T00:00:00.000Z",
+    "amount": 3507,
+    "recovered": 1854,
+    "avg": 2599,
+    "sum": 887233,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-05T00:00:00.000Z",
+    "amount": 3882,
+    "recovered": 2278,
+    "avg": 2788,
+    "sum": 891115,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-06T00:00:00.000Z",
+    "amount": 3887,
+    "recovered": 1918,
+    "avg": 3031,
+    "sum": 895002,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-07T00:00:00.000Z",
+    "amount": 2928,
+    "recovered": 1014,
+    "avg": 3238,
+    "sum": 897930,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-08T00:00:00.000Z",
+    "amount": 3442,
+    "recovered": 3272,
+    "avg": 3356,
+    "sum": 901372,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-09T00:00:00.000Z",
+    "amount": 6371,
+    "recovered": 2013,
+    "avg": 3545,
+    "sum": 907743,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-10T00:00:00.000Z",
+    "amount": 5852,
+    "recovered": 2367,
+    "avg": 3904,
+    "sum": 913595,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-11T00:00:00.000Z",
+    "amount": 6022,
+    "recovered": 3275,
+    "avg": 4267,
+    "sum": 919617,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-12T00:00:00.000Z",
+    "amount": 6145,
+    "recovered": 3648,
+    "avg": 4626,
+    "sum": 925762,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-13T00:00:00.000Z",
+    "amount": 5945,
+    "recovered": 3262,
+    "avg": 4949,
+    "sum": 931707,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-14T00:00:00.000Z",
+    "amount": 4215,
+    "recovered": 1582,
+    "avg": 5243,
+    "sum": 935922,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-15T00:00:00.000Z",
+    "amount": 5191,
+    "recovered": 5098,
+    "avg": 5427,
+    "sum": 941113,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-16T00:00:00.000Z",
+    "amount": 8788,
+    "recovered": 3432,
+    "avg": 5677,
+    "sum": 949901,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-17T00:00:00.000Z",
+    "amount": 7956,
+    "recovered": 3337,
+    "avg": 6022,
+    "sum": 957857,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-18T00:00:00.000Z",
+    "amount": 8010,
+    "recovered": 5306,
+    "avg": 6323,
+    "sum": 965867,
+    "coronaEvents": "הרחבת הנחיות התו הירוק בגל הרביעי"
+    },
+    {
+    "date": "2021-08-19T00:00:00.000Z",
+    "amount": 7814,
+    "recovered": 5889,
+    "avg": 6607,
+    "sum": 973681,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-20T00:00:00.000Z",
+    "amount": 7901,
+    "recovered": 5484,
+    "avg": 6845,
+    "sum": 981582,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-21T00:00:00.000Z",
+    "amount": 5415,
+    "recovered": 2724,
+    "avg": 7125,
+    "sum": 986997,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-22T00:00:00.000Z",
+    "amount": 6581,
+    "recovered": 8216,
+    "avg": 7296,
+    "sum": 993578,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-23T00:00:00.000Z",
+    "amount": 10015,
+    "recovered": 5003,
+    "avg": 7495,
+    "sum": 1003593,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-24T00:00:00.000Z",
+    "amount": 10081,
+    "recovered": 4902,
+    "avg": 7670,
+    "sum": 1013674,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-25T00:00:00.000Z",
+    "amount": 9221,
+    "recovered": 7751,
+    "avg": 7973,
+    "sum": 1022895,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-26T00:00:00.000Z",
+    "amount": 9096,
+    "recovered": 8584,
+    "avg": 8146,
+    "sum": 1031991,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-27T00:00:00.000Z",
+    "amount": 8681,
+    "recovered": 7929,
+    "avg": 8330,
+    "sum": 1040672,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-28T00:00:00.000Z",
+    "amount": 7279,
+    "recovered": 3946,
+    "avg": 8441,
+    "sum": 1047951,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-29T00:00:00.000Z",
+    "amount": 6779,
+    "recovered": 10708,
+    "avg": 8707,
+    "sum": 1054730,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-30T00:00:00.000Z",
+    "amount": 11146,
+    "recovered": 6919,
+    "avg": 8736,
+    "sum": 1065876,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-08-31T00:00:00.000Z",
+    "amount": 10443,
+    "recovered": 6381,
+    "avg": 8897,
+    "sum": 1076319,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-01T00:00:00.000Z",
+    "amount": 11292,
+    "recovered": 9304,
+    "avg": 8949,
+    "sum": 1087611,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-02T00:00:00.000Z",
+    "amount": 11333,
+    "recovered": 10550,
+    "avg": 9245,
+    "sum": 1098944,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-03T00:00:00.000Z",
+    "amount": 9889,
+    "recovered": 9337,
+    "avg": 9564,
+    "sum": 1108833,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-04T00:00:00.000Z",
+    "amount": 5036,
+    "recovered": 5184,
+    "avg": 9737,
+    "sum": 1113869,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-05T00:00:00.000Z",
+    "amount": 5863,
+    "recovered": 12441,
+    "avg": 9416,
+    "sum": 1119732,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-06T00:00:00.000Z",
+    "amount": 10865,
+    "recovered": 9200,
+    "avg": 9286,
+    "sum": 1130597,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-07T00:00:00.000Z",
+    "amount": 6867,
+    "recovered": 4946,
+    "avg": 9245,
+    "sum": 1137464,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-08T00:00:00.000Z",
+    "amount": 3319,
+    "recovered": 5881,
+    "avg": 8735,
+    "sum": 1140783,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-09T00:00:00.000Z",
+    "amount": 7945,
+    "recovered": 13235,
+    "avg": 7596,
+    "sum": 1148728,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-10T00:00:00.000Z",
+    "amount": 9884,
+    "recovered": 11478,
+    "avg": 7112,
+    "sum": 1158612,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-11T00:00:00.000Z",
+    "amount": 10283,
+    "recovered": 5825,
+    "avg": 7111,
+    "sum": 1168895,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-12T00:00:00.000Z",
+    "amount": 7821,
+    "recovered": 12798,
+    "avg": 7860,
+    "sum": 1176716,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-13T00:00:00.000Z",
+    "amount": 10949,
+    "recovered": 7721,
+    "avg": 8140,
+    "sum": 1187665,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-14T00:00:00.000Z",
+    "amount": 9853,
+    "recovered": 6856,
+    "avg": 8152,
+    "sum": 1197518,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-15T00:00:00.000Z",
+    "amount": 8825,
+    "recovered": 10070,
+    "avg": 8579,
+    "sum": 1206343,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-16T00:00:00.000Z",
+    "amount": 3284,
+    "recovered": 3842,
+    "avg": 9365,
+    "sum": 1209627,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-17T00:00:00.000Z",
+    "amount": 5022,
+    "recovered": 6929,
+    "avg": 8699,
+    "sum": 1214649,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-18T00:00:00.000Z",
+    "amount": 8609,
+    "recovered": 3769,
+    "avg": 8005,
+    "sum": 1223258,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-19T00:00:00.000Z",
+    "amount": 6546,
+    "recovered": 16019,
+    "avg": 7766,
+    "sum": 1229804,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-20T00:00:00.000Z",
+    "amount": 8818,
+    "recovered": 10793,
+    "avg": 7584,
+    "sum": 1238622,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-21T00:00:00.000Z",
+    "amount": 4826,
+    "recovered": 4161,
+    "avg": 7279,
+    "sum": 1243448,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-22T00:00:00.000Z",
+    "amount": 6027,
+    "recovered": 11659,
+    "avg": 6561,
+    "sum": 1249475,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-23T00:00:00.000Z",
+    "amount": 6433,
+    "recovered": 9804,
+    "avg": 6161,
+    "sum": 1255908,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-24T00:00:00.000Z",
+    "amount": 4949,
+    "recovered": 7835,
+    "avg": 6611,
+    "sum": 1260857,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-25T00:00:00.000Z",
+    "amount": 2616,
+    "recovered": 3177,
+    "avg": 6601,
+    "sum": 1263473,
+    "coronaEvents": null
+    },
+    {
+    "date": "2021-09-26T00:00:00.000Z",
+    "amount": 423,
+    "recovered": 674,
+    "avg": 5745,
+    "sum": 1263896,
+    "coronaEvents": null
+    }
+    ]

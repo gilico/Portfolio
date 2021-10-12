@@ -1,0 +1,107 @@
+﻿<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Memory Game</title>
+    <link rel="stylesheet" href="./css/style.css" type="text/css"/>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <div id="title"><h1>Lets Play The Cards Memory Game!</h1></div>
+            <div id="btnShuffle"><button onclick="window.location.reload()">Click To Shuffle</button></div>
+            <div id="timer"></div>
+        </header>
+
+        <section>
+            <!-- player 1 -->
+            <div id="left-side" class="leftSide">
+            <div class="turns-note" id="left-turn"></div>
+                <div id="score-bord">
+                    <div id="player-name">Player 2</div>
+                    <p>correct flips: </p>
+                    <div id="left-player-score"></div>
+                </div>
+            </div>
+
+            <!-- cards container -->
+            <div id="middle">
+                <div id="winner"></div>
+                <div class="game-card" onclick="GetCardName('c')">
+                    <img src="memory-images/c-image.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('c')">
+                    <img src="memory-images/c-image.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('csharp')">
+                    <img src="memory-images/csharp.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('csharp')">
+                    <img src="memory-images/csharp.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('HTML')">
+                    <img src="memory-images/HTML.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('HTML')">
+                    <img src="memory-images/HTML.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('CSS')">
+                    <img src="memory-images/CSS.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />                </div>
+                <div class="game-card" onclick="GetCardName('CSS')">
+                    <img src="memory-images/CSS.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('PHP')">
+                    <img src="memory-images/PHP.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('PHP')">
+                    <img src="memory-images/PHP.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('python')">
+                    <img src="memory-images/python.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('python')">
+                    <img src="memory-images/python.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('JS')">
+                    <img src="memory-images/JS.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('JS')">
+                    <img src="memory-images/JS.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('sql')">
+                    <img src="memory-images/sql.png" class="front-img" />
+                    <img src="memory-images/back.png" class="back-img" />
+                </div>
+                <div class="game-card" onclick="GetCardName('sql')">
+                   <img src="memory-images/sql.png" class="front-img" />
+                   <img src="memory-images/back.png" class="back-img" />
+                </div>
+            </div>
+            <!-- player 2 -->
+            <div id="right-side" class="rightSide turn">
+            <div class="turns-note" id="right-turn"></div>
+                <div id="score-bord">
+                    <div id="player-name">Player 1</div>
+                    <p>correct flips: </p>
+                    <div id="right-player-score"></div>
+                </div>
+            </div>
+            <div id="clear"></div>
+        </section>
+    </div>
+    <script src="./scripts/script.js"></script>
+</body>
+</html>

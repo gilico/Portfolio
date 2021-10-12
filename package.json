@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Gil_Cohen-Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "google-translate-api": "^2.3.0",
+    "got": "^11.8.2",
+    "nodemon": "^2.0.13",
+    "translate-google": "^1.5.0"
+  }
+}

@@ -1,0 +1,424 @@
+* {
+    box-sizing: border-box;
+}
+
+p, a, ul{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: rgb(230, 230, 230);
+}
+h1{
+    font-weight:900;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+body{
+    /* overflow-y: scroll; */
+    font-family: sans-serif;
+
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+.section{
+    width: 85%;
+    height: 100%;
+    float: right;
+}
+#home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(40, 53, 78);
+}
+
+nav{
+    background-color: rgb(0, 0, 23);
+    height: 100%;
+    border: 1px solid black;
+    width: 15%;
+    float: left;
+    text-align: center;
+    position: fixed;
+}
+.active a{
+    color: rgb(189, 123, 0);
+}
+
+#photo{
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid white;
+}
+#img-cont{
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    margin-top: 25%;
+}
+
+#photo img{
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    border: 2px solid rgb(231, 231, 255);
+}
+#photo > *{margin-bottom: 10px;}
+ #det, #home-content h3{color: rgb(189, 123, 0);}
+
+ul{
+    margin-top: 20%;
+}
+li{
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+#home h1{font-size: 50px;}
+
+#home2{
+    width: 50%;
+    text-align: center;
+    margin-top: -10%;
+    color: rgb(230, 230, 230);
+}
+
+#home-content h3{
+    display: inline;
+    font-size: 25px;
+}
+#home-content button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    border: 1px solid white;
+    width: 160px;
+    height: 45px;
+    font-size: 16px;
+}
+#home-content button:hover{background-color: rgb(91, 91, 91);}
+button, a{cursor: pointer;}
+button:active {transform: translateY(2px); }
+
+#about, #skills, #projects, #challenges, #contact,footer{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#container{
+    margin-top: -50px;
+    /* margin:  auto; */
+    width: 80%;
+}
+
+#container p{margin-top: -15px; color: rgb(78, 78, 78);}
+
+/*----About Section----*/
+
+#about-content{
+    display: flex;
+    margin-top: -15px;
+}
+
+
+#container #img-contain{
+    width: 350px;
+    margin-top: 15px;
+    border-radius: 2px;
+}
+
+#img-contain img{
+    width: 100%;
+    margin-top: 14%;
+}
+
+#about-right{
+    margin-left: 15px;
+    line-height: 27px;
+    width: 60%;
+}
+#about-right h4{color: rgb(213, 138, 0);}
+#about-right h2{
+    margin-top: -12px;
+    word-wrap: break-word;
+}
+#about-right #text{border-bottom: 1px solid rgb(165, 165, 165);}
+#about-right #about-contact{
+    margin-top: 20px;
+    font-weight: bold;
+}
+#about-contact a{color: rgb(213, 138, 0);}
+#about-contact button, form #btn{
+    background-color: rgb(255, 166, 0);
+    height: 50px;
+    border-radius: 30px;
+    border: 2px solid rgb(242, 255, 0);
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+}
+#about-contact button:active, form #btn:active{
+    transform: scale(.97);
+}
+
+
+/*----Skills Section----*/
+#skills{
+    background-color: rgb(255, 251, 245);
+}
+#skills #container, .projects #container{
+    height: 80%;
+}
+#skills h1{margin-left:6% ;}
+
+#boxes-cont{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 1000px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#boxes-cont .box{
+    border: 3px solid rgb(211, 211, 211);
+    border-radius: 2px;
+    height: 180px;
+    width: 28%;
+    margin: 1%;
+    text-align: center;
+    background-color: white;
+    padding-top: 5px;
+}
+
+.box > img{
+    width: 50px;
+}
+.box .front{width: 70px}
+.box > h4{
+    font-weight: bold;
+    margin-top: 5px;
+}
+.box > p{
+    font-size: 13px;
+}
+
+/*----Project Section----*/
+*#projects h1{margin-left: 3%;}
+#projects #boxes-cont{
+    width: 100%;
+}
+#projects #boxes-cont a{
+    height: 300px;
+    width: 28%;
+    transition: transform .2s;
+    margin: 0 auto;
+}
+#projects #boxes-cont .box{
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: -1px;
+    background-position-y: 92%;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    position: relative;
+}
+
+#projects #boxes-cont > a:hover{
+    transform: scale(1.1);
+}
+
+#projects #boxes-cont h4{
+    margin-top: 15px;
+}
+#projects #boxes-cont p{color: rgb(220, 220, 220); }
+#projects #boxes-cont .box3 p{color: rgb(83, 83, 83);}
+#boxes-cont a .box1{
+    background-image: url('../images/E2E.png');
+    background-color:black;
+}
+#boxes-cont a .box2{
+    background-image: url('../images/covid.png');
+    background-color: rgb(111, 7, 7);
+}
+#boxes-cont a .box3{
+    background-image: url('../images/memory.png');
+    background-color: rgb(157, 255, 0);
+    
+}
+#boxes-cont a .box3 p, .box3 h4{color: black;}
+#challenges h1,#challenges p{margin-left: 6%;}
+#projects .line{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 80%;
+    border-bottom: 1px solid rgb(115, 115, 115);
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+
+
+/*-----codig challenges style-----*/
+
+#challenges #container{
+    height: 65%;
+    margin-top: -10%;
+}
+
+#challenges p {
+    margin-left: 6%;
+    line-height: 25px;
+}
+
+#challenges #container #boxes-cont{
+    height: 70%;
+    margin-top: 25px;
+}
+
+#challenges a{
+    width: 29%;
+    height: 95%;
+    margin: 0 5px;
+}
+
+#challenges .box{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;;
+    background-repeat: no-repeat;
+    background-position-x: .5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+#challenges .box:hover{
+    transform: scale(.95);
+}
+
+#challenges .c-box1{
+    background-image: url('../images/cups.png'); background-color: rgb(0, 155, 210);
+}
+#challenges .c-box2{
+    background-image: url('../images/pentagonal.png');background-color: rgb(223, 192, 3);
+}
+#challenges .c-box3{
+    background-image: url('../images/occurr.png');background-color: rgb(0, 32, 96);
+}
+
+/*------Contact style-----*/
+#contact{
+   height: 80%;
+}
+#contact #container{
+    height: 90%;
+}
+#contact p{
+    margin-bottom: 30px;
+ }
+#form-contain form{
+    display: block;
+}
+#form-contain form > *{
+    margin-bottom: 20px;
+}
+
+form #contact-det,form #message{
+    width: 100%;
+}
+form #contact-det > *{
+    width: 48%;
+    height: 30px;
+    border-bottom: 2px solid rgb(186, 186, 186);
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(237, 244, 255);
+}
+form #message > *{
+    height: 30px;
+    width: 100%;
+    margin-bottom: 20px;
+    border-bottom: 2px solid rgb(186, 186, 186);
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(237, 244, 255);
+}
+form #contact-det #email{float: right;}
+
+#message-text{
+    border-bottom: 2px solid rgb(186, 186, 186);
+    height: 100px;
+    width: 100%;
+    font-family: sans-serif;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(237, 244, 255);
+    margin-top: -2%;
+}
+
+input, textarea{
+    border: 0px;
+}
+/*----footer----*/
+.footer{
+    width: 85%;
+    height: 20%;
+    float: right;
+    background-color: rgb(0, 0, 23);
+    color: rgb(237, 244, 255);;
+}
+.footer #container{
+    display: flex;
+    width: 90%;
+}
+
+.footer .icon-cont {
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer #container img{
+    width: 30px;
+    height: 30px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.footer #line{
+    margin-top: 5%;
+    height: 80px;
+    border-right: 1px solid white;
+}

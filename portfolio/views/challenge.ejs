@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/challenges_style.css">
+    <title>Gil Cohen | <%=title%></title>
+</head>
+<body onload="getChallengeData()">
+    <div id="wrapper">
+        <header>
+            <h1></h1>
+        </header>
+        <section>
+
+            <div id="explain-cont">
+                <h2>Explaination</h2>
+                <p>this is the explaination of the challenge</p>
+            </div>
+            
+            <div id="line"></div>
+            
+            <div id="example-con">
+                <h2>Examples</h2>
+                <p>this is the examples of the challenge</p>
+            </div>
+        </section>
+        <footer>
+            <div id="btn-cont">
+                <button onclick="insertSolution()">My Solution</button>
+            </div>
+        </footer>
+        <div id="back"><a href="/#challenges">Back To Portfolio</a></div>
+        <div id="credit"><a href="https://edabit.com/challenges" target="_blank">credit: edabit.com</a></div>
+        
+        <div id="solution">
+            <div id="sol-cont">
+                <h2>My Solution with C#</h2>
+                <div id="img-cont"><img src="" alt=""></div>
+            </div>
+        </div>
+    </div>
+    <script src="data/challenges-data.json"></script>
+    <script src="scripts/challenge-script.js"></script>
+</body>
+</html>

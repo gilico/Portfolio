@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: sans-serif;
+    background-color: rgb(255, 249, 237);
+}
+#wrapper{
+    height: 90vh;
+    width: 75%;
+    margin: 0 auto;
+    box-shadow: 0 0 9px rgb(0, 3, 27);
+    background-color: rgb(43, 43, 43);
+    position: relative;
+}
+h1, h2, p, a {color: rgb(233, 233, 233);}
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+header{
+    text-align: center;
+    height: 11%;
+    padding-top: 2px;
+}
+header h1{
+    font-weight: 900;
+}
+
+section{
+    height: 70%;
+}
+
+#explain-cont, #example-con{
+    margin: 25px auto;
+    width: 95%;
+    /* margin-left: 25px; */
+    line-height: 25px;
+}
+
+#line{
+    width: 80%; 
+    height: 1px;
+    border-bottom: 1.5px solid blue;
+    margin: auto;
+}
+
+
+footer{
+    height: 12%;
+    text-align: center;
+}
+
+button{
+    width: 125px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#back, #credit{
+    position: absolute;
+    right: 10px;
+}
+
+#back{top: 10px;}
+#credit{bottom: 10px;}
+
+a{
+   text-decoration: none; 
+   color: inherit;
+   color: white;
+}
+
+#solution{
+    /* visibility: hidden; */
+    height: 500px;
+    margin-top: 50px;
+}
+
+#sol-cont{
+    box-shadow: 0 0 9px rgb(0, 3, 27);
+    width: 75%;
+    background-color: rgb(43, 43, 43); 
+    /* height: 80%; */
+    margin: auto;
+    text-align: center;
+}
+
+#sol-cont h2{margin-top: 15px;}
+
+#img-cont{
+    width: 100%;
+    margin: 0 auto;
+}
+
+img{
+    width: 80%
+}
+
+
+@media screen and (max-width: 640px) {
+    header h1{
+        margin-top: 30px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    #wrapper{
+        height: 100%;
+        width: 95%;
+    }
+    #line{
+        margin: -10px  auto;
+    }
+    button{
+        margin-top: 35px;
+    }
+    #sol-cont{
+        width: 95%;
+    }
+    img{
+        width: 80%
+    }
+    
+}
