@@ -31,11 +31,4 @@ router.use('/worldWide-data', worldDataRoutes);
 // express routes - israel general data 
 router.use('/general-israel', generalIsraelRoutes);
 
-
-
-// // 404 page - must be last of the pages
-// router.use((req, res) => {
-//      res.status(404).render('404', {title: '404'});
-//  })
-
  module.exports = router;
