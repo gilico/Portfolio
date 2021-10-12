@@ -218,7 +218,6 @@ button:active {transform: translateY(2px); }
     margin-top: 15px;
 }
 #projects #boxes-cont p{color: rgb(220, 220, 220); }
-#projects #boxes-cont .box3 p{color: rgb(83, 83, 83);}
 #boxes-cont a .box1{
     background-image: url('../images/E2E.png');
     background-color:black;
@@ -229,10 +228,9 @@ button:active {transform: translateY(2px); }
 }
 #boxes-cont a .box3{
     background-image: url('../images/memory.png');
-    background-color: rgb(157, 255, 0);
+    background-color: rgb(6, 0, 169);
     
 }
-#boxes-cont a .box3 p, .box3 h4{color: black;}
 #challenges h1,#challenges p{margin-left: 6%;}
 
 #projects .line{
@@ -296,9 +294,7 @@ button:active {transform: translateY(2px); }
 #form-contain form{
     display: block;
 }
-#form-contain input:not(:last-child), textarea, #message input, #email{
-    border-radius: 5px;
-}
+
 
 #form-contain form > *{
     margin-bottom: 20px;
@@ -323,6 +319,17 @@ form #message > *{
     padding-top: 5px;
     background-color: rgb(237, 244, 255);
 }
+
+input, textarea{
+    border-radius: 5px;
+}
+
+input:focus, textarea:focus{
+    outline: none !important;
+    border: 2px solid rgb(255, 166, 0);
+    border-bottom: 2px solid rgb(255, 166, 0) !important;
+}
+
 form #contact-det #email{float: right;}
 #message-text{
     border-bottom: 2px solid rgb(186, 186, 186);
@@ -459,9 +466,9 @@ input, textarea{
     }
 
     #projects #boxes-cont .box{
-        background-size: 55%;
+        background-size: 40%;
         background-position-x: center;
-        background-position-y: center;
+        background-position-y: 82%;
         padding: 5px;
     }
     #projects h1{text-align: center;}
@@ -616,11 +623,12 @@ input, textarea{
         width: 40%;
         margin-top: 20px;
     }
+    
 
     #projects #boxes-cont .box{
-        background-size: 55%;
+        background-size: 40%;
         background-position-x: center;
-        background-position-y: center;
+        background-position-y: 82%;
         padding: 5px;
     }
 
@@ -758,8 +766,8 @@ input, textarea{
     }
 
     #projects #boxes-cont .box{
-        background-size: 100%;
-        background-position-x: -1px;
+        background-size: 80%;
+        background-position-x: center;
         background-position-y: 92%;
         padding: 10px;
     }
