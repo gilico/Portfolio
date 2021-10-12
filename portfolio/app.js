@@ -1,7 +1,8 @@
 const express = require('express');
 const covidApp = require('./apps/covid-app/app');
 const app = express();
-app.listen(3000);
+const port = process.env.PORT || 3000;
+app.listen(port);
 
 // register views engine
 app.set('view engine', 'ejs');
